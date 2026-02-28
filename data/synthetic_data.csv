@@ -1,0 +1,1501 @@
+Customer_Age,Gender,Annual_Income,Purchase_Frequency,Discount_Offered,Product_Category,Marketing_Spend,Seasonal_Demand_Index,Store_Location,Monthly_Sales,Purchase_Decision,Loyalty_Category
+40,Male,85621.13,8,6.6,Home & Garden,7283.84,1.53,Airport,1103.5,Yes,Medium
+33,Female,33126.94,4,22.8,Home & Garden,1178.15,0.75,Downtown,717.18,No,Low
+42,Female,80143.97,12,21.6,Clothing,3363.04,0.88,Suburban,1417.53,No,High
+53,Male,23335.76,10,27.1,Books,500.0,0.75,Mall,1072.76,No,Medium
+32,Male,91172.56,10,1.0,Clothing,6866.89,1.06,Mall,1168.96,Yes,High
+32,Male,103815.55,7,13.4,Electronics,9401.51,0.84,Suburban,1183.98,Yes,High
+53,Female,49591.63,9,20.4,Clothing,572.49,1.07,Online,1072.59,No,Medium
+44,Female,70935.7,12,2.9,Clothing,8476.62,1.33,Downtown,1145.83,Yes,High
+29,Female,177164.51,5,12.3,Clothing,7382.63,0.3,Mall,1261.03,Yes,High
+41,Female,51786.35,11,28.3,Home & Garden,2130.23,1.15,Downtown,1241.22,Yes,Medium
+29,Male,39273.35,6,13.1,Clothing,5860.59,0.86,Mall,690.9,Yes,Medium
+29,Male,139886.55,6,29.6,Home & Garden,500.0,1.14,Online,1448.56,No,High
+37,Male,177912.81,6,1.7,Electronics,13426.38,0.73,Suburban,1277.61,No,High
+18,Male,66809.67,9,21.5,Electronics,3996.8,1.36,Mall,1277.89,Yes,Medium
+18,Male,110579.15,9,17.4,Groceries,4842.38,1.27,Airport,1472.73,No,High
+28,Male,130417.12,6,15.0,Toys,5463.04,1.17,Downtown,1187.11,Yes,High
+22,Female,46005.36,12,29.1,Toys,4120.48,1.24,Mall,1380.7,Yes,Medium
+38,Female,52318.35,8,3.9,Beauty,9716.3,0.78,Online,728.38,Yes,Medium
+24,Female,123400.76,6,26.9,Home & Garden,4704.22,0.81,Mall,1446.29,No,High
+18,Female,154857.78,9,20.7,Home & Garden,11916.81,1.23,Downtown,1530.65,Yes,High
+52,Female,88361.86,8,7.8,Home & Garden,4365.34,0.77,Downtown,992.28,No,High
+32,Male,42952.41,7,27.1,Home & Garden,938.41,1.43,Suburban,1229.93,No,Medium
+35,Female,180103.3,9,12.9,Electronics,12241.67,0.9,Downtown,1608.98,Yes,High
+18,Female,51137.32,3,24.4,Groceries,5722.67,1.15,Suburban,774.67,Yes,Medium
+28,Male,56397.85,10,11.7,Groceries,6007.2,1.63,Downtown,1309.33,Yes,Medium
+36,Male,79136.08,10,25.5,Groceries,21161.74,0.79,Downtown,1523.03,Yes,High
+21,Female,145050.25,9,19.1,Groceries,500.0,1.02,Suburban,1391.18,Yes,High
+39,Male,102205.76,9,4.2,Electronics,2798.26,1.32,Suburban,1156.6,No,High
+27,Female,82058.53,9,19.5,Groceries,1366.24,1.29,Mall,1214.11,Yes,High
+31,Female,84069.54,7,5.7,Electronics,4977.03,0.9,Mall,966.69,No,Medium
+27,Male,68153.15,9,12.4,Beauty,8220.45,0.84,Downtown,919.88,No,Medium
+57,Male,88152.63,8,5.1,Electronics,16952.88,0.93,Downtown,1155.7,Yes,High
+34,Male,20000.0,5,0.7,Clothing,3031.14,1.43,Downtown,835.91,Yes,Low
+22,Male,57494.9,4,6.4,Toys,7714.0,0.92,Suburban,674.36,No,Medium
+44,Male,75238.34,6,16.1,Groceries,12447.68,1.02,Downtown,1045.31,No,Medium
+20,Female,37505.7,8,14.4,Electronics,5749.4,0.87,Mall,813.8,Yes,Medium
+37,Male,80895.78,12,15.0,Groceries,1390.19,1.21,Downtown,1404.52,Yes,High
+18,Female,60205.54,8,7.4,Electronics,4680.61,1.05,Online,1101.31,Yes,Medium
+19,Male,160410.77,7,20.6,Clothing,17524.8,0.7,Suburban,1657.45,Yes,High
+37,Female,146424.49,9,21.1,Electronics,21931.71,0.71,Suburban,1507.49,Yes,High
+43,Male,52830.95,9,10.7,Groceries,5141.14,0.4,Airport,958.6,No,Medium
+37,Male,61841.9,10,26.4,Books,10901.3,0.75,Mall,1424.18,No,Medium
+33,Female,64265.71,4,19.3,Groceries,1117.9,1.24,Mall,970.56,Yes,Medium
+31,Female,53205.95,5,21.4,Home & Garden,1412.34,1.4,Online,1027.08,Yes,Medium
+18,Male,73516.69,10,8.3,Clothing,15276.1,1.21,Suburban,1236.05,Yes,High
+26,Female,45643.4,13,0.0,Clothing,726.49,1.17,Airport,1102.73,No,Medium
+29,Male,37890.19,13,26.0,Books,1060.44,0.96,Suburban,1394.52,Yes,Medium
+47,Female,91045.16,7,24.7,Electronics,2728.37,1.23,Airport,1282.95,No,Medium
+39,Male,91356.08,8,3.7,Toys,4452.92,1.09,Suburban,954.53,Yes,High
+18,Male,44604.83,6,11.2,Groceries,4629.4,1.54,Suburban,906.81,Yes,Medium
+38,Female,104342.39,10,19.8,Books,1726.39,0.97,Mall,1465.05,Yes,High
+30,Female,48628.57,8,19.6,Clothing,12667.16,1.4,Downtown,1238.35,Yes,Medium
+26,Male,75685.2,5,25.8,Clothing,12331.4,1.26,Downtown,1211.02,Yes,Medium
+42,Female,100501.44,10,4.2,Sports,2488.46,1.22,Suburban,1174.37,Yes,High
+47,Female,65574.95,13,12.9,Books,2848.38,0.4,Mall,1278.88,No,High
+46,Male,83711.01,3,2.9,Clothing,6061.66,1.28,Online,1010.41,Yes,Medium
+24,Female,51510.47,10,11.7,Beauty,5438.3,0.96,Mall,1204.68,No,Medium
+31,Male,60446.99,1,0.5,Electronics,2408.74,0.87,Airport,648.57,No,Medium
+38,Female,60163.77,5,26.9,Electronics,2674.26,0.56,Suburban,871.58,Yes,Medium
+46,Female,45911.28,10,15.8,Groceries,2138.85,1.0,Downtown,1020.33,No,Medium
+29,Female,61045.1,13,25.5,Sports,1341.91,1.01,Downtown,1359.15,Yes,High
+32,Male,30743.88,11,1.8,Beauty,3063.72,0.61,Mall,852.41,No,Medium
+21,Male,52165.59,6,6.8,Groceries,5798.73,0.56,Suburban,898.05,No,Medium
+20,Male,57833.16,9,7.8,Electronics,6773.33,1.15,Downtown,1182.49,Yes,Medium
+44,Male,58668.92,11,11.6,Home & Garden,7545.11,1.26,Suburban,1292.05,No,Medium
+51,Male,59101.2,8,24.1,Clothing,2347.87,1.06,Mall,979.03,Yes,Medium
+34,Female,64658.39,6,11.6,Groceries,7233.11,1.35,Suburban,857.99,No,Medium
+47,Male,84751.27,4,6.1,Groceries,500.0,0.97,Airport,837.99,No,Medium
+39,Male,103260.87,10,1.9,Electronics,3241.35,0.98,Mall,1266.43,Yes,High
+27,Female,48188.35,13,2.4,Groceries,7897.08,0.72,Mall,1090.78,Yes,Medium
+39,Male,36539.71,6,22.8,Groceries,4971.87,0.53,Online,1027.84,Yes,Medium
+53,Female,39605.89,6,13.3,Sports,3212.87,1.56,Suburban,833.19,Yes,Medium
+34,Male,52268.74,8,21.8,Home & Garden,5173.15,1.34,Mall,1034.56,Yes,Medium
+53,Female,55926.56,8,20.5,Clothing,11872.88,0.58,Online,1006.78,Yes,Medium
+18,Male,45376.85,10,4.1,Clothing,4177.95,1.05,Mall,910.97,No,Medium
+44,Male,34880.98,7,4.3,Clothing,8041.85,0.97,Airport,865.38,Yes,Medium
+36,Female,53087.4,8,22.7,Clothing,19749.33,0.92,Suburban,1187.08,Yes,Medium
+31,Male,73018.53,8,21.6,Home & Garden,6113.54,0.88,Mall,1002.05,Yes,Medium
+36,Female,89793.69,13,11.3,Beauty,4258.67,1.11,Downtown,1491.76,Yes,High
+18,Male,50465.43,8,2.3,Home & Garden,500.0,1.25,Online,711.37,No,Medium
+32,Male,54244.47,6,0.4,Home & Garden,2345.84,1.12,Airport,670.5,No,Medium
+39,Female,41957.23,9,8.6,Groceries,4167.14,0.96,Online,782.99,Yes,Medium
+52,Male,65646.25,6,0.3,Clothing,7977.84,0.95,Mall,867.58,No,Medium
+28,Female,43631.78,7,6.9,Toys,2882.2,1.28,Downtown,904.43,No,Medium
+25,Female,88815.74,6,12.6,Beauty,16101.67,1.14,Downtown,1376.53,No,Medium
+28,Female,27304.92,12,3.6,Groceries,1585.85,1.02,Online,1061.37,No,Medium
+45,Female,55711.42,4,3.1,Clothing,6823.98,0.99,Suburban,873.38,No,Medium
+38,Male,77521.37,7,26.9,Sports,2715.29,1.1,Suburban,1218.74,Yes,Medium
+28,Male,73106.5,6,17.6,Electronics,3327.55,0.86,Mall,888.09,Yes,Medium
+41,Male,200000.0,10,28.0,Sports,8110.13,1.25,Suburban,1956.54,Yes,High
+36,Female,79431.9,3,10.4,Books,1756.41,0.68,Mall,797.22,No,Medium
+46,Female,40365.39,7,20.3,Electronics,509.12,0.88,Suburban,971.97,No,Medium
+26,Male,63578.02,6,6.1,Beauty,3672.51,1.18,Mall,852.06,No,Medium
+31,Female,27436.57,7,18.6,Beauty,3762.31,0.66,Online,868.85,No,Medium
+30,Male,64052.31,5,3.9,Toys,7976.88,0.53,Downtown,647.97,No,Medium
+18,Female,43968.43,10,0.1,Groceries,17260.22,1.02,Suburban,956.26,No,Medium
+38,Male,105392.89,8,27.9,Clothing,500.0,0.49,Suburban,1109.77,No,High
+38,Female,50664.72,6,16.6,Groceries,4478.64,0.61,Online,846.42,No,Medium
+35,Female,62904.46,7,27.8,Groceries,5717.19,1.23,Suburban,1074.89,Yes,Medium
+32,Male,48531.89,6,10.0,Clothing,21273.04,0.94,Suburban,960.19,Yes,Medium
+18,Male,159082.94,14,9.8,Groceries,14287.7,1.39,Mall,1971.14,Yes,High
+29,Male,56791.04,9,12.0,Home & Garden,6231.81,0.64,Suburban,893.75,No,Medium
+30,Male,166713.79,7,21.2,Electronics,3688.52,0.97,Online,1437.46,Yes,High
+25,Male,100190.75,8,17.0,Clothing,880.85,1.12,Online,1227.41,Yes,High
+33,Female,84862.59,8,27.8,Electronics,2423.97,0.65,Suburban,1210.29,Yes,Medium
+39,Female,80187.41,12,0.8,Sports,4398.86,1.31,Mall,1198.08,Yes,High
+57,Female,81198.65,10,21.2,Home & Garden,6458.57,1.15,Downtown,1424.24,No,High
+37,Male,25435.95,11,9.9,Electronics,5044.77,0.52,Mall,967.92,No,Medium
+38,Female,58006.69,9,5.4,Beauty,6260.96,0.99,Mall,1120.03,No,Medium
+34,Female,101756.12,5,15.3,Electronics,2803.17,1.12,Suburban,1070.01,Yes,Medium
+18,Male,65075.71,6,15.2,Groceries,6502.92,0.82,Downtown,901.49,No,Medium
+34,Female,33029.63,8,4.1,Sports,775.91,0.56,Online,629.33,No,Medium
+35,Female,64961.69,6,6.1,Books,887.19,1.08,Suburban,887.96,No,Medium
+64,Male,156343.07,10,12.2,Electronics,888.65,1.66,Mall,1577.27,No,High
+32,Male,124392.99,10,12.3,Toys,11075.85,0.88,Downtown,1371.93,No,High
+38,Female,64650.64,7,9.5,Toys,500.0,1.47,Suburban,968.7,Yes,Medium
+34,Male,107310.3,8,4.5,Groceries,8085.04,0.77,Airport,1059.47,Yes,High
+20,Female,55520.18,12,0.1,Groceries,1330.07,1.06,Suburban,1078.47,No,Medium
+48,Female,28447.61,8,29.1,Electronics,3159.6,1.23,Mall,946.16,No,Medium
+44,Female,42004.09,8,28.3,Groceries,12382.11,1.0,Downtown,1211.63,Yes,Medium
+44,Male,145684.65,12,14.5,Groceries,4408.69,0.91,Suburban,1645.9,Yes,High
+24,Male,58148.7,5,29.9,Sports,1179.36,1.22,Online,988.56,Yes,Medium
+51,Female,59045.48,6,20.2,Groceries,1671.0,1.57,Mall,1270.42,Yes,Medium
+18,Female,57402.1,9,2.1,Home & Garden,12656.64,1.09,Online,1056.54,No,Medium
+42,Male,172788.5,8,3.5,Electronics,2785.6,0.85,Online,1195.71,No,High
+61,Female,150352.04,13,27.5,Electronics,4421.36,0.94,Online,1756.17,No,High
+23,Female,200000.0,5,18.9,Electronics,3080.3,1.76,Online,1660.58,Yes,High
+28,Male,61588.64,8,25.3,Electronics,2377.6,1.04,Downtown,1186.39,Yes,Medium
+36,Male,77309.14,4,26.9,Groceries,1263.37,0.82,Online,942.35,Yes,Medium
+28,Female,31239.36,3,13.4,Books,5794.86,0.66,Downtown,502.25,No,Low
+18,Male,139556.18,13,1.5,Home & Garden,6333.53,0.45,Downtown,1290.77,No,High
+35,Male,37192.62,6,5.6,Groceries,1607.13,1.11,Downtown,683.5,No,Medium
+22,Male,74320.57,7,2.0,Home & Garden,7779.74,1.2,Suburban,940.97,Yes,Medium
+40,Male,38526.59,10,5.7,Clothing,9639.11,0.88,Mall,876.62,Yes,Medium
+23,Female,49678.22,7,12.3,Groceries,12671.02,1.0,Suburban,932.52,No,Medium
+53,Female,43876.06,8,3.5,Clothing,878.99,0.65,Downtown,822.32,No,Medium
+25,Male,49208.3,8,5.0,Sports,1811.48,1.04,Suburban,1045.97,Yes,Medium
+31,Female,50929.31,7,13.4,Clothing,9843.2,1.14,Suburban,1099.07,Yes,Medium
+44,Female,50696.94,8,10.2,Electronics,1106.6,0.84,Airport,1022.78,No,Medium
+20,Female,101156.31,8,14.0,Groceries,500.0,1.51,Suburban,1365.32,Yes,High
+37,Male,38381.23,9,12.9,Toys,10233.03,0.75,Downtown,1074.34,Yes,Medium
+50,Male,74460.64,6,19.3,Home & Garden,1975.96,1.09,Suburban,1006.24,No,Medium
+18,Female,122606.44,8,28.1,Books,2676.42,1.25,Suburban,1483.61,Yes,High
+37,Female,51593.82,11,3.2,Home & Garden,2955.97,0.98,Mall,979.83,Yes,Medium
+38,Male,46573.91,12,3.0,Groceries,9428.41,0.94,Suburban,1085.12,Yes,Medium
+44,Male,59426.35,7,25.6,Sports,2061.63,0.57,Suburban,995.31,No,Medium
+20,Male,120284.84,9,15.2,Books,11141.09,1.41,Suburban,1567.39,Yes,High
+19,Female,73482.98,6,23.0,Clothing,4797.81,0.95,Suburban,1116.3,No,Medium
+41,Female,51131.1,9,6.5,Clothing,3746.33,1.16,Online,981.57,No,Medium
+38,Female,84939.42,5,24.9,Clothing,1969.77,1.2,Downtown,1118.53,Yes,Medium
+38,Male,38430.6,13,27.7,Groceries,1396.66,0.81,Airport,1306.74,No,Medium
+39,Female,93754.51,12,19.1,Toys,4891.61,0.94,Mall,1485.45,Yes,High
+26,Female,81802.16,8,3.2,Clothing,2961.03,1.4,Downtown,930.62,Yes,Medium
+37,Male,57173.8,8,26.9,Groceries,12068.48,0.66,Online,1053.14,No,Medium
+38,Female,43847.04,5,23.8,Toys,3382.81,1.64,Airport,1142.93,Yes,Medium
+26,Female,42805.2,9,22.5,Groceries,3585.1,0.78,Mall,1038.43,Yes,Medium
+57,Male,87130.65,3,1.1,Groceries,2695.47,0.65,Suburban,637.82,No,Medium
+40,Female,123283.95,8,24.0,Toys,7785.72,1.04,Mall,1413.13,Yes,High
+20,Male,48489.44,10,4.1,Groceries,2765.53,1.66,Suburban,1076.82,Yes,Medium
+42,Female,83863.74,8,6.7,Home & Garden,1569.05,0.43,Downtown,973.26,No,Medium
+23,Female,23487.93,13,17.3,Electronics,9903.63,0.96,Airport,1100.64,No,Medium
+44,Female,49783.87,3,7.9,Clothing,4541.96,1.14,Online,712.91,Yes,Medium
+48,Female,65658.73,9,19.8,Groceries,4476.44,1.01,Downtown,1192.97,Yes,Medium
+25,Male,42315.7,4,18.2,Groceries,4718.59,1.11,Airport,868.04,Yes,Medium
+46,Female,41751.98,12,3.2,Beauty,6344.15,0.78,Mall,1048.61,Yes,Medium
+39,Female,47756.26,8,19.7,Beauty,1877.6,0.82,Downtown,1030.37,Yes,Medium
+44,Male,77176.6,6,27.7,Toys,500.0,0.96,Suburban,1037.39,Yes,Medium
+57,Female,60723.79,8,4.8,Clothing,8319.29,0.66,Suburban,822.24,Yes,Medium
+32,Female,21777.65,8,17.9,Beauty,690.02,0.99,Airport,1119.66,Yes,Medium
+25,Male,23095.78,7,10.3,Home & Garden,6397.43,0.88,Airport,759.76,No,Medium
+24,Female,49233.16,9,13.8,Groceries,500.0,0.86,Downtown,951.49,Yes,Medium
+25,Female,83834.39,9,8.6,Sports,2352.48,1.1,Mall,1195.85,No,High
+34,Male,20000.0,6,10.6,Electronics,500.0,0.45,Airport,744.7,No,Medium
+39,Female,51942.37,5,0.9,Electronics,3692.96,0.93,Airport,644.16,No,Medium
+38,Male,51258.22,7,29.4,Books,5294.11,1.7,Downtown,1149.68,Yes,Medium
+44,Male,133509.0,8,18.7,Home & Garden,940.29,0.67,Suburban,1163.31,No,High
+35,Male,55008.58,8,15.0,Groceries,2323.11,1.39,Online,1238.87,Yes,Medium
+52,Female,80761.03,7,11.5,Groceries,13313.44,1.02,Suburban,1034.11,Yes,Medium
+31,Female,71566.61,8,16.2,Toys,2920.47,0.82,Suburban,1050.47,No,Medium
+67,Male,22982.13,5,11.4,Home & Garden,8111.19,0.6,Airport,563.9,No,Low
+42,Male,97915.38,12,10.8,Groceries,13099.15,1.04,Downtown,1310.52,Yes,High
+24,Female,74269.34,7,13.9,Electronics,18315.24,1.44,Online,1239.57,No,Medium
+22,Male,85981.69,10,8.3,Clothing,11429.72,0.88,Suburban,1138.42,Yes,High
+40,Female,200000.0,5,5.4,Beauty,1909.27,0.98,Downtown,1282.41,No,High
+32,Female,23522.17,8,16.7,Groceries,16426.8,1.3,Downtown,1290.51,Yes,Medium
+43,Female,157961.02,6,25.3,Groceries,8367.09,1.1,Downtown,1557.78,Yes,High
+40,Female,57758.83,6,4.6,Groceries,9075.41,0.53,Downtown,876.23,No,Medium
+34,Male,76989.15,11,1.0,Toys,500.0,1.03,Mall,1174.19,No,High
+24,Female,65185.94,10,7.4,Home & Garden,15421.6,1.45,Downtown,1280.47,No,Medium
+18,Female,53940.51,9,29.4,Home & Garden,7527.42,0.99,Online,1197.84,Yes,Medium
+29,Female,50153.26,9,24.9,Groceries,7304.39,0.3,Suburban,1065.91,No,Medium
+45,Male,78630.08,9,17.9,Electronics,500.0,1.12,Suburban,1201.76,Yes,Medium
+37,Female,31231.06,5,27.9,Toys,1323.53,0.94,Suburban,803.58,No,Medium
+20,Male,97056.14,11,13.4,Toys,16385.39,0.45,Mall,1355.49,Yes,High
+37,Male,54157.84,7,29.5,Toys,3472.51,0.5,Suburban,934.0,Yes,Medium
+39,Male,37900.54,6,8.9,Toys,2536.31,1.29,Downtown,813.64,No,Medium
+24,Female,53249.77,5,7.2,Books,9161.06,0.78,Online,758.01,No,Medium
+36,Female,125032.61,10,19.1,Home & Garden,500.0,0.73,Suburban,1235.63,Yes,High
+35,Female,51025.85,8,11.3,Books,2697.34,0.99,Downtown,715.33,No,Medium
+21,Female,79776.33,10,18.8,Home & Garden,2355.63,0.81,Suburban,1111.4,Yes,High
+39,Male,46271.3,9,9.1,Electronics,2152.77,1.03,Mall,1141.74,Yes,Medium
+41,Female,97413.12,10,18.5,Groceries,1838.62,0.94,Suburban,1266.14,No,High
+47,Male,93949.17,9,8.3,Beauty,1179.09,0.64,Airport,1141.84,Yes,High
+47,Female,168057.2,9,1.5,Groceries,949.21,0.85,Mall,1131.61,No,High
+18,Female,61082.05,11,27.4,Toys,5113.9,1.13,Mall,1255.38,Yes,Medium
+23,Female,93160.83,10,26.5,Electronics,12590.96,1.01,Suburban,1346.15,Yes,High
+41,Female,70037.71,7,29.1,Clothing,3555.05,0.98,Online,1143.23,Yes,Medium
+41,Male,127476.99,9,21.5,Groceries,1768.93,1.58,Suburban,1772.28,Yes,High
+41,Male,46552.64,9,20.5,Electronics,866.77,1.22,Mall,1147.52,Yes,Medium
+80,Female,96786.03,2,16.8,Electronics,8864.0,1.26,Suburban,1180.62,No,Medium
+41,Male,60500.48,11,3.8,Clothing,17787.86,0.95,Mall,1182.56,No,Medium
+48,Male,64580.07,9,5.7,Books,2147.42,1.07,Downtown,1147.25,No,Medium
+46,Female,69816.91,5,8.7,Electronics,1719.15,0.87,Downtown,1026.55,No,Medium
+42,Female,75650.21,2,26.7,Clothing,4600.15,1.23,Airport,963.93,Yes,Medium
+31,Male,62921.35,6,5.2,Electronics,7465.59,0.97,Suburban,828.28,Yes,Medium
+44,Male,74243.97,6,27.7,Home & Garden,3038.54,1.07,Suburban,998.3,Yes,Medium
+25,Female,146798.23,6,15.7,Home & Garden,4972.25,1.05,Mall,1297.11,Yes,High
+32,Female,109150.19,8,21.5,Home & Garden,6303.58,0.99,Mall,1339.93,No,High
+29,Male,102984.38,7,3.3,Groceries,16168.97,1.88,Downtown,1553.18,Yes,High
+35,Male,53102.83,7,8.1,Clothing,901.84,0.8,Downtown,691.79,No,Medium
+62,Male,42750.44,6,28.8,Sports,29727.67,0.8,Online,1228.83,Yes,Medium
+18,Male,107517.14,8,8.0,Books,2489.19,1.21,Mall,1013.09,Yes,High
+43,Male,103339.88,9,8.9,Electronics,6422.3,0.82,Suburban,1155.42,Yes,High
+18,Female,139258.98,8,5.9,Groceries,4248.0,0.91,Airport,1295.38,No,High
+29,Female,49304.22,7,3.9,Clothing,3334.17,0.67,Suburban,813.85,No,Medium
+48,Female,59455.35,12,7.0,Clothing,5987.89,1.15,Downtown,1266.01,No,Medium
+35,Male,29378.35,8,19.3,Sports,2518.87,1.15,Downtown,1010.59,Yes,Medium
+22,Female,54804.07,6,13.7,Groceries,674.0,0.91,Suburban,911.22,No,Medium
+26,Male,109758.8,9,16.6,Clothing,3355.89,1.21,Online,1354.35,No,High
+43,Female,52812.73,7,3.7,Clothing,3689.84,0.44,Downtown,627.68,No,Medium
+26,Female,91857.63,8,24.1,Beauty,1127.62,0.79,Downtown,1007.44,Yes,High
+37,Male,60627.49,9,23.5,Books,13714.71,0.95,Online,1209.89,Yes,Medium
+35,Female,78416.04,7,0.6,Toys,1290.46,0.65,Downtown,811.84,No,Medium
+27,Male,37568.06,7,11.5,Groceries,2631.62,0.48,Mall,868.32,Yes,Medium
+60,Female,69588.88,6,2.1,Home & Garden,841.68,0.91,Downtown,790.84,Yes,Medium
+42,Male,20000.0,7,23.8,Groceries,3837.16,1.21,Mall,931.69,Yes,Medium
+18,Male,60736.93,10,22.1,Electronics,1838.23,1.38,Suburban,1307.93,Yes,Medium
+37,Female,29511.01,10,27.1,Groceries,3359.6,0.84,Downtown,1067.72,Yes,Medium
+27,Male,121875.16,7,7.1,Groceries,1271.99,1.22,Mall,1266.58,No,High
+45,Female,98366.83,10,13.7,Clothing,500.0,1.19,Mall,1487.99,Yes,High
+25,Male,84211.84,6,5.5,Books,7553.09,1.37,Mall,1273.61,Yes,Medium
+33,Female,142665.55,8,11.1,Clothing,5123.37,0.89,Mall,1345.37,Yes,High
+41,Female,41493.71,7,15.7,Groceries,2083.18,0.46,Suburban,826.5,No,Medium
+45,Female,159761.42,7,1.6,Electronics,500.0,1.02,Suburban,1398.77,Yes,High
+20,Male,106281.98,8,21.4,Groceries,10033.75,0.7,Mall,1281.36,Yes,High
+30,Male,59247.43,9,16.3,Electronics,930.41,0.78,Mall,1093.68,Yes,Medium
+29,Male,117661.29,9,24.9,Clothing,13349.6,0.91,Mall,1391.16,No,High
+27,Male,38353.79,10,8.2,Groceries,3256.14,0.9,Mall,922.95,No,Medium
+56,Female,44156.62,7,27.1,Groceries,2080.51,1.04,Downtown,1149.9,Yes,Medium
+39,Female,49190.73,4,30.0,Groceries,6769.32,1.21,Downtown,943.02,Yes,Medium
+19,Female,51188.31,6,27.6,Clothing,10471.33,0.89,Suburban,1059.13,Yes,Medium
+46,Female,39319.52,7,23.3,Groceries,2315.84,1.12,Online,836.31,Yes,Medium
+60,Female,122920.96,6,24.4,Groceries,2615.7,1.0,Airport,1483.79,Yes,High
+47,Female,58590.51,10,17.2,Clothing,2838.38,1.28,Mall,1326.94,No,Medium
+18,Male,79539.4,7,5.7,Books,12775.98,0.94,Suburban,1073.67,No,Medium
+29,Female,50140.26,15,20.3,Groceries,5897.44,0.98,Downtown,1466.91,Yes,High
+50,Female,26834.77,5,21.4,Clothing,1422.74,0.89,Online,807.16,Yes,Medium
+26,Female,76327.15,5,29.6,Toys,1022.83,0.95,Online,1202.95,No,Medium
+40,Male,25632.79,6,16.2,Books,1309.21,0.76,Downtown,683.01,No,Medium
+44,Male,64436.68,8,8.1,Beauty,1529.66,0.74,Airport,985.05,Yes,Medium
+23,Male,33644.26,13,20.5,Home & Garden,1308.02,1.23,Suburban,1362.55,No,Medium
+34,Female,180122.65,8,29.4,Groceries,5372.13,0.68,Suburban,1754.77,Yes,High
+18,Female,105180.86,6,5.3,Clothing,616.12,0.9,Mall,752.33,Yes,High
+22,Male,70307.39,13,9.8,Home & Garden,2449.88,1.3,Mall,1266.44,Yes,High
+31,Female,125443.23,5,16.3,Beauty,4904.86,0.89,Airport,1061.65,No,High
+20,Male,43677.89,7,5.1,Home & Garden,1718.51,1.25,Downtown,864.86,No,Medium
+54,Male,87508.83,6,0.7,Toys,500.0,0.82,Suburban,639.55,No,Medium
+18,Male,73692.81,6,10.1,Clothing,500.0,0.68,Suburban,645.42,No,Medium
+29,Female,76097.09,7,26.0,Groceries,673.18,0.52,Suburban,1255.12,Yes,Medium
+36,Female,125986.75,8,1.3,Toys,9034.66,1.39,Suburban,1368.82,No,High
+52,Male,96182.37,6,12.9,Sports,5362.73,0.66,Suburban,1027.28,No,Medium
+18,Female,77042.86,9,22.9,Beauty,500.0,1.22,Suburban,1286.21,No,Medium
+48,Male,29152.96,7,28.6,Sports,2480.25,0.7,Suburban,936.91,Yes,Medium
+35,Female,41263.44,6,29.6,Groceries,1632.7,1.4,Mall,1163.04,No,Medium
+23,Female,62717.81,6,12.7,Groceries,4314.23,1.66,Mall,1000.63,Yes,Medium
+40,Female,69873.48,6,28.5,Toys,3699.16,0.49,Mall,1030.6,No,Medium
+37,Male,37897.99,5,1.1,Groceries,3280.45,0.67,Downtown,609.37,No,Medium
+27,Female,200000.0,7,22.4,Clothing,1888.12,1.23,Suburban,1567.92,No,High
+35,Female,142336.93,4,19.3,Groceries,741.34,1.15,Downtown,1351.96,Yes,High
+30,Male,90112.52,12,7.5,Groceries,6781.28,1.23,Downtown,1320.33,Yes,High
+36,Female,69132.05,6,15.2,Electronics,10595.35,0.83,Suburban,1113.32,Yes,Medium
+42,Male,59973.06,10,3.9,Sports,14425.51,1.6,Downtown,1263.89,Yes,Medium
+54,Female,41431.47,4,26.1,Electronics,500.0,1.04,Mall,1009.07,Yes,Medium
+20,Male,69320.47,8,10.7,Groceries,6733.61,0.63,Online,886.02,No,Medium
+60,Female,75858.99,2,18.8,Books,6482.33,0.92,Downtown,745.24,Yes,Medium
+18,Female,35841.98,6,4.8,Groceries,14697.67,0.64,Airport,681.53,Yes,Medium
+33,Male,78813.81,9,6.2,Books,1457.88,1.48,Downtown,1163.76,Yes,Medium
+42,Male,61705.34,6,29.8,Clothing,6777.45,0.8,Mall,1237.41,Yes,Medium
+38,Male,25689.86,10,22.6,Beauty,500.0,1.15,Mall,1226.9,No,Medium
+27,Male,43371.71,6,28.9,Clothing,4988.12,0.86,Online,760.36,No,Medium
+32,Male,54227.99,8,8.9,Electronics,2160.44,0.82,Downtown,924.6,No,Medium
+29,Female,171373.23,3,4.9,Toys,7324.73,0.43,Suburban,750.39,No,High
+27,Male,88082.74,5,15.1,Sports,9949.99,1.18,Downtown,1182.9,Yes,Medium
+45,Male,34201.15,11,14.8,Clothing,2269.24,1.39,Suburban,1252.97,Yes,Medium
+39,Female,85031.19,9,5.2,Beauty,3728.38,0.73,Online,1034.6,No,High
+26,Male,30764.09,7,22.0,Groceries,624.44,0.54,Airport,820.11,No,Medium
+45,Female,114588.28,8,10.9,Beauty,2697.04,1.24,Mall,1268.98,Yes,High
+38,Female,52690.63,4,5.6,Groceries,2237.69,0.51,Suburban,520.7,Yes,Medium
+44,Female,63636.16,12,10.0,Groceries,1011.34,1.37,Online,1291.61,No,High
+42,Female,129398.7,11,16.9,Groceries,11244.21,0.73,Suburban,1493.2,No,High
+25,Female,35037.48,6,21.8,Clothing,801.36,0.67,Downtown,898.83,Yes,Medium
+28,Male,33163.2,9,14.5,Groceries,5049.43,1.07,Airport,987.22,No,Medium
+43,Male,49809.23,14,15.8,Groceries,11042.86,0.69,Suburban,1227.58,Yes,High
+42,Male,112077.37,8,4.2,Electronics,12150.31,0.79,Downtown,1034.48,No,High
+34,Female,31197.16,8,27.4,Clothing,7880.98,1.11,Downtown,917.63,Yes,Medium
+36,Male,20000.0,6,27.9,Clothing,968.78,0.3,Mall,863.27,Yes,Medium
+50,Female,53219.27,8,20.5,Toys,8503.15,1.49,Mall,1164.54,Yes,Medium
+27,Female,87871.05,6,0.5,Groceries,1618.72,1.01,Suburban,923.79,Yes,Medium
+41,Female,121526.32,11,16.1,Sports,12780.81,0.61,Mall,1645.91,No,High
+32,Female,52900.85,5,18.9,Beauty,6173.65,0.69,Airport,803.84,No,Medium
+32,Male,54287.1,12,29.8,Home & Garden,7691.81,1.3,Online,1397.87,Yes,Medium
+48,Female,118741.68,9,29.9,Beauty,500.0,1.18,Mall,1471.6,Yes,High
+44,Female,26183.49,11,25.7,Clothing,4370.53,1.42,Airport,1245.95,Yes,Medium
+44,Male,54912.42,6,1.9,Clothing,8605.82,0.8,Airport,981.65,Yes,Medium
+50,Male,73347.76,9,28.6,Groceries,9887.69,1.09,Suburban,1514.87,No,Medium
+35,Female,83480.19,9,18.4,Groceries,500.0,1.13,Suburban,1274.52,No,High
+43,Female,51681.33,9,24.0,Toys,13997.48,1.21,Suburban,1431.97,Yes,Medium
+31,Female,67844.65,9,12.2,Groceries,500.0,1.34,Downtown,1109.5,Yes,Medium
+38,Female,20000.0,7,9.6,Clothing,4766.31,0.78,Suburban,763.88,No,Medium
+33,Female,47984.39,5,13.9,Sports,5910.85,0.97,Suburban,811.04,Yes,Medium
+36,Female,83659.45,2,4.4,Groceries,567.78,0.82,Downtown,532.61,No,Medium
+42,Male,40806.97,9,10.7,Clothing,500.0,0.98,Downtown,1049.26,No,Medium
+25,Male,68682.34,6,25.7,Groceries,7683.54,1.21,Suburban,1215.09,Yes,Medium
+60,Male,83382.32,7,1.1,Toys,2427.99,0.5,Mall,835.27,Yes,Medium
+22,Female,56189.25,4,4.5,Books,566.47,1.33,Airport,751.1,No,Medium
+20,Female,72619.38,9,3.8,Groceries,7191.47,0.66,Suburban,843.52,Yes,Medium
+48,Female,41208.05,8,12.1,Groceries,9457.78,0.91,Suburban,871.09,Yes,Medium
+44,Male,60141.15,10,29.9,Electronics,4426.22,1.37,Suburban,1402.1,Yes,Medium
+42,Female,90478.12,9,5.2,Groceries,879.13,1.1,Downtown,1054.55,No,High
+42,Female,72131.19,9,4.4,Sports,500.0,1.1,Downtown,998.15,Yes,Medium
+34,Female,49736.27,2,27.5,Groceries,6033.26,0.65,Airport,761.26,No,Medium
+24,Female,74597.59,6,26.5,Clothing,3994.09,0.69,Suburban,984.87,No,Medium
+35,Male,95326.22,7,1.0,Toys,5260.51,1.28,Airport,969.48,Yes,High
+26,Female,23927.52,7,22.6,Books,8388.17,0.82,Mall,763.0,Yes,Medium
+46,Male,119049.22,9,19.7,Home & Garden,2847.82,0.85,Downtown,1327.17,No,High
+33,Male,56366.37,6,23.0,Electronics,664.89,1.29,Suburban,1091.21,Yes,Medium
+25,Female,82495.6,6,14.8,Electronics,14065.66,0.69,Suburban,905.03,No,Medium
+31,Female,121343.27,10,29.7,Electronics,3940.17,1.08,Suburban,1555.75,Yes,High
+39,Female,33587.81,10,1.3,Home & Garden,4776.38,1.01,Suburban,931.4,No,Medium
+28,Female,46771.76,12,7.0,Electronics,13546.11,1.0,Online,1101.22,No,Medium
+25,Female,57727.04,8,11.9,Books,13410.72,0.84,Airport,1204.74,No,Medium
+37,Female,45065.78,5,13.5,Beauty,4244.27,0.83,Online,741.85,Yes,Medium
+37,Female,158771.85,8,27.6,Groceries,1766.34,0.68,Downtown,1480.38,Yes,High
+28,Male,43450.13,8,16.8,Groceries,29238.79,1.14,Downtown,1254.26,Yes,Medium
+29,Male,50512.79,8,1.4,Sports,5709.95,0.8,Downtown,664.4,No,Medium
+37,Male,73861.71,14,12.2,Toys,2624.93,1.29,Suburban,1515.01,Yes,High
+18,Male,36558.92,2,12.5,Toys,4103.05,0.93,Suburban,509.33,Yes,Low
+18,Male,54716.19,7,29.0,Electronics,2687.85,0.68,Mall,1007.7,No,Medium
+26,Male,78157.55,7,18.0,Clothing,10959.92,0.93,Suburban,1210.75,Yes,Medium
+32,Male,56462.11,5,19.1,Sports,3293.72,0.88,Online,1030.63,Yes,Medium
+38,Female,63644.1,7,21.4,Home & Garden,8672.98,1.3,Online,1068.47,Yes,Medium
+52,Male,51179.24,8,23.1,Electronics,9168.42,0.89,Downtown,1069.14,Yes,Medium
+45,Female,31273.3,8,19.1,Groceries,8695.81,0.92,Online,1129.93,No,Medium
+33,Male,78319.5,12,7.1,Books,6404.06,1.42,Suburban,1392.44,Yes,High
+34,Female,160367.26,4,26.2,Clothing,9650.89,1.15,Suburban,1524.32,Yes,High
+22,Male,67302.73,6,22.0,Toys,2448.82,1.5,Airport,1019.57,Yes,Medium
+34,Male,74636.68,8,22.3,Electronics,608.94,1.38,Downtown,1177.7,Yes,Medium
+31,Female,94288.7,9,29.9,Books,9240.2,0.73,Online,1364.26,No,High
+38,Male,35351.29,6,24.1,Home & Garden,3447.45,1.3,Mall,896.38,No,Medium
+25,Male,156218.76,11,24.9,Clothing,681.25,1.46,Online,1580.79,Yes,High
+41,Male,73785.66,6,28.5,Sports,612.6,1.46,Online,1139.49,Yes,Medium
+53,Male,150796.08,9,4.5,Books,867.26,1.3,Suburban,1526.7,Yes,High
+33,Male,46223.28,12,14.9,Toys,6950.97,1.29,Downtown,1275.08,Yes,Medium
+39,Male,165509.89,7,17.4,Groceries,6204.16,0.91,Downtown,1594.94,No,High
+43,Female,98256.14,14,9.9,Home & Garden,1139.64,0.75,Suburban,1387.46,Yes,High
+30,Female,87928.15,6,25.2,Home & Garden,9384.08,0.89,Downtown,1114.6,Yes,Medium
+37,Female,74964.32,9,22.9,Groceries,1651.52,0.5,Airport,1235.74,Yes,Medium
+35,Male,58893.79,8,21.6,Toys,7874.83,1.4,Suburban,1241.94,Yes,Medium
+36,Female,121542.72,10,29.9,Electronics,3355.03,0.92,Online,1618.16,Yes,High
+25,Male,71534.51,9,7.8,Clothing,6575.43,1.39,Mall,1062.46,Yes,Medium
+35,Male,24939.81,5,22.1,Groceries,2401.38,0.63,Downtown,828.92,Yes,Low
+40,Female,38145.46,7,16.5,Clothing,2131.97,1.32,Suburban,1067.11,No,Medium
+52,Male,60768.84,10,9.4,Toys,9205.58,0.85,Suburban,1138.54,No,Medium
+46,Male,77866.79,6,4.8,Home & Garden,500.0,0.61,Suburban,719.69,No,Medium
+60,Female,64825.94,7,26.9,Groceries,18392.06,1.49,Suburban,1366.05,Yes,Medium
+25,Female,122668.48,8,17.9,Books,5223.17,1.33,Downtown,1469.92,Yes,High
+45,Female,25139.72,6,24.7,Groceries,2832.43,1.06,Mall,916.24,Yes,Medium
+37,Female,71650.06,5,16.4,Groceries,4945.04,1.01,Suburban,1024.14,Yes,Medium
+61,Female,26870.0,7,6.6,Electronics,654.76,1.13,Airport,862.1,No,Medium
+25,Male,97500.37,4,10.1,Groceries,3608.27,1.06,Airport,890.17,Yes,Medium
+24,Male,63610.0,12,11.4,Electronics,21030.47,0.76,Downtown,1226.3,Yes,High
+27,Male,82253.42,12,29.2,Home & Garden,1341.16,0.88,Downtown,1419.66,Yes,High
+18,Male,43295.92,9,0.2,Groceries,6405.68,1.59,Mall,981.13,No,Medium
+28,Male,126435.52,7,29.6,Clothing,2854.39,1.8,Online,1640.27,No,High
+25,Female,112265.02,5,29.4,Groceries,5284.35,1.47,Suburban,1250.92,Yes,High
+36,Female,89279.52,5,29.9,Clothing,1146.36,1.14,Suburban,1263.19,Yes,Medium
+39,Female,62504.68,7,14.3,Toys,3178.78,0.9,Downtown,1100.32,No,Medium
+57,Male,89115.09,6,28.9,Electronics,19583.35,0.76,Suburban,1308.29,Yes,Medium
+46,Female,46831.39,7,11.9,Toys,1086.35,0.78,Suburban,837.13,Yes,Medium
+28,Female,102286.51,9,0.8,Groceries,5059.12,0.83,Suburban,1024.83,Yes,High
+24,Female,152130.77,8,6.7,Home & Garden,4285.37,1.65,Mall,1418.54,No,High
+40,Male,113898.22,6,28.4,Clothing,4162.64,1.54,Suburban,1367.75,Yes,High
+19,Female,46302.63,9,0.4,Beauty,4774.16,1.22,Downtown,1083.74,Yes,Medium
+56,Male,79894.63,8,16.4,Clothing,3488.17,0.71,Suburban,1066.95,Yes,Medium
+49,Male,34932.91,5,2.3,Groceries,500.0,1.27,Online,544.92,No,Medium
+29,Male,88783.0,9,8.6,Beauty,11517.77,0.93,Suburban,1232.33,No,High
+18,Female,83538.01,6,2.6,Toys,8771.71,0.35,Online,915.24,No,Medium
+51,Female,26182.52,8,25.8,Groceries,956.82,1.09,Suburban,991.35,No,Medium
+33,Male,37304.28,6,17.7,Beauty,2665.98,0.75,Suburban,955.5,Yes,Medium
+49,Male,57883.39,7,27.1,Sports,7360.33,0.76,Downtown,1165.05,Yes,Medium
+18,Male,57372.79,8,20.7,Clothing,19575.72,0.92,Mall,1121.87,No,Medium
+27,Male,36425.23,5,29.1,Groceries,15093.68,0.85,Suburban,958.67,Yes,Medium
+35,Male,81003.26,8,15.3,Clothing,11480.99,0.99,Mall,1225.89,Yes,Medium
+35,Male,75621.21,5,19.2,Clothing,862.1,0.98,Airport,794.15,Yes,Medium
+29,Female,60513.44,9,17.3,Sports,12294.74,0.44,Mall,1119.17,No,Medium
+42,Male,45700.27,11,14.5,Groceries,10536.94,1.46,Downtown,1105.85,No,Medium
+22,Male,112657.65,8,25.4,Electronics,2365.64,0.7,Airport,1390.4,No,High
+33,Male,152582.21,6,19.3,Toys,2508.69,0.71,Suburban,1387.43,No,High
+36,Female,52364.0,11,24.0,Clothing,3080.09,0.9,Suburban,1269.75,No,Medium
+41,Female,49102.82,7,23.6,Beauty,5338.12,0.97,Suburban,969.89,Yes,Medium
+43,Female,85251.34,10,5.7,Beauty,1511.17,1.44,Mall,1231.88,Yes,High
+21,Male,55756.02,8,19.5,Toys,500.0,1.08,Downtown,997.14,No,Medium
+18,Female,62196.67,9,6.0,Books,761.27,1.17,Suburban,907.67,Yes,Medium
+50,Male,96527.37,7,17.5,Clothing,2900.13,1.08,Suburban,1138.8,Yes,High
+38,Female,25669.97,7,20.3,Groceries,1656.45,1.07,Suburban,960.24,Yes,Medium
+26,Female,128914.73,12,29.9,Clothing,7230.57,1.09,Downtown,1731.42,Yes,High
+53,Female,69154.3,3,0.9,Clothing,564.11,0.42,Downtown,681.89,No,Medium
+36,Female,54285.3,6,2.7,Home & Garden,12472.68,0.93,Downtown,939.5,Yes,Medium
+49,Female,63776.38,9,2.3,Electronics,11284.58,1.35,Suburban,1187.19,Yes,Medium
+35,Male,65445.3,8,12.0,Beauty,11971.13,2.0,Online,1151.51,Yes,Medium
+59,Female,28061.52,8,24.6,Toys,6727.87,0.64,Downtown,929.43,No,Medium
+56,Male,140818.12,7,25.3,Groceries,565.84,1.13,Suburban,1314.35,Yes,High
+32,Female,68078.59,9,22.1,Groceries,2882.49,0.83,Suburban,1130.92,Yes,Medium
+46,Male,83221.11,11,26.9,Groceries,704.39,1.61,Airport,1426.33,Yes,High
+42,Male,107315.69,8,9.7,Toys,21990.45,0.59,Downtown,1245.07,No,High
+51,Male,40021.58,7,2.6,Home & Garden,2025.11,1.19,Downtown,906.62,Yes,Medium
+23,Male,84498.68,8,1.7,Clothing,4401.37,0.58,Downtown,976.18,Yes,Medium
+43,Female,58333.67,15,25.6,Groceries,7556.86,0.9,Online,1606.22,No,High
+47,Female,101838.21,14,21.9,Groceries,12667.3,0.99,Mall,1507.87,Yes,High
+18,Male,23020.53,10,21.0,Beauty,7043.68,1.32,Downtown,1146.33,No,Medium
+20,Male,63462.73,6,10.2,Clothing,5612.02,0.68,Suburban,954.59,Yes,Medium
+18,Female,49332.82,13,11.4,Electronics,3136.63,1.2,Downtown,1391.35,Yes,Medium
+31,Male,82775.45,4,28.7,Toys,4649.42,1.01,Downtown,924.71,Yes,Medium
+43,Female,84353.99,4,1.9,Toys,500.0,1.08,Airport,756.69,Yes,Medium
+53,Female,46814.22,7,23.2,Toys,10767.49,1.29,Suburban,1245.66,No,Medium
+35,Female,46707.89,10,9.3,Groceries,3923.87,0.62,Mall,930.67,No,Medium
+54,Female,63096.63,13,1.2,Home & Garden,500.0,1.24,Suburban,1087.5,No,High
+18,Male,42592.53,6,22.3,Groceries,12622.53,0.83,Mall,837.56,No,Medium
+18,Female,101594.75,10,9.9,Electronics,3359.88,1.33,Suburban,1226.79,No,High
+34,Male,55445.27,5,21.7,Groceries,10147.13,1.1,Suburban,850.68,Yes,Medium
+39,Male,20000.0,11,21.2,Electronics,9720.64,0.94,Mall,1135.81,No,Medium
+34,Female,55289.83,6,16.0,Clothing,8457.35,0.82,Downtown,1029.18,Yes,Medium
+18,Male,39675.27,8,23.3,Toys,500.0,1.25,Mall,926.61,Yes,Medium
+33,Female,29499.17,4,17.4,Clothing,1418.89,1.38,Online,812.53,Yes,Low
+19,Female,35919.73,8,8.6,Toys,10419.17,0.84,Downtown,992.41,No,Medium
+43,Female,70435.98,9,22.0,Clothing,11462.73,0.66,Online,1209.86,No,Medium
+39,Female,129582.85,11,17.7,Clothing,3063.08,1.21,Downtown,1378.14,No,High
+23,Male,77990.91,8,0.4,Home & Garden,2899.46,0.57,Suburban,909.67,No,Medium
+28,Male,49242.07,8,27.0,Sports,962.71,0.61,Mall,1001.01,No,Medium
+22,Female,83759.71,9,16.4,Groceries,17274.7,0.68,Mall,1256.33,No,High
+34,Male,53008.64,13,26.1,Toys,1198.51,0.88,Downtown,1264.24,Yes,Medium
+46,Female,47120.11,10,26.5,Electronics,1059.39,0.6,Airport,1100.43,No,Medium
+23,Female,37442.96,9,13.3,Toys,5404.78,0.42,Online,927.71,No,Medium
+41,Female,27773.59,8,15.2,Clothing,1390.93,0.66,Downtown,1052.57,No,Medium
+28,Male,54873.92,7,12.5,Toys,13965.72,1.19,Online,1093.08,No,Medium
+25,Male,72170.17,12,13.5,Groceries,500.0,0.62,Mall,1315.53,Yes,High
+33,Male,63541.18,2,26.9,Books,500.0,0.9,Online,854.11,Yes,Medium
+22,Male,54164.0,6,23.6,Home & Garden,3514.74,1.58,Downtown,1103.68,Yes,Medium
+28,Female,41559.53,6,3.8,Clothing,3347.76,0.99,Airport,756.55,Yes,Medium
+20,Male,90389.05,6,18.3,Toys,891.83,1.1,Downtown,966.92,Yes,Medium
+58,Male,34516.38,13,29.9,Clothing,3411.23,0.72,Online,1300.75,Yes,Medium
+35,Male,98299.01,6,17.9,Clothing,2652.26,1.65,Mall,1045.7,No,Medium
+26,Female,40402.49,6,23.6,Books,11051.38,0.84,Suburban,896.11,Yes,Medium
+37,Female,45777.03,9,23.1,Electronics,500.0,0.93,Downtown,1074.04,Yes,Medium
+33,Male,32027.9,8,10.5,Clothing,18705.03,1.4,Airport,1223.92,No,Medium
+32,Male,51898.97,14,11.2,Groceries,4896.06,0.95,Mall,1409.36,No,High
+42,Male,108598.35,6,21.7,Books,823.45,1.01,Suburban,1156.95,No,High
+44,Male,86298.66,4,15.0,Electronics,500.0,0.92,Suburban,913.25,No,Medium
+28,Female,108767.33,9,17.1,Groceries,3862.1,0.92,Airport,1394.76,Yes,High
+28,Female,86580.21,7,21.4,Sports,1338.68,1.11,Suburban,1027.42,Yes,Medium
+31,Male,38404.13,8,23.3,Toys,1791.71,1.17,Downtown,1084.59,Yes,Medium
+18,Male,56520.61,8,8.1,Toys,1406.06,0.81,Online,809.18,No,Medium
+18,Female,45145.94,10,4.4,Books,5251.57,0.77,Suburban,921.48,Yes,Medium
+51,Male,129708.22,6,8.8,Home & Garden,4031.9,0.82,Suburban,1086.32,No,High
+54,Female,36657.05,4,15.2,Groceries,500.0,0.58,Downtown,669.2,Yes,Medium
+32,Male,104255.94,10,10.3,Electronics,3738.3,0.52,Online,1234.39,No,High
+41,Female,104217.17,10,17.1,Sports,7831.65,1.09,Downtown,1490.49,Yes,High
+38,Male,166469.17,5,1.6,Beauty,500.0,1.28,Mall,1255.76,No,High
+71,Female,54334.35,7,15.3,Sports,11024.52,1.26,Online,1109.07,Yes,Medium
+48,Female,95217.25,8,11.0,Electronics,4317.38,0.3,Downtown,1195.31,No,High
+33,Male,200000.0,4,16.0,Groceries,15041.5,0.93,Airport,1376.61,Yes,High
+23,Male,48968.59,7,12.7,Home & Garden,801.67,0.67,Suburban,992.49,Yes,Medium
+18,Male,30953.31,12,8.5,Home & Garden,25230.02,1.04,Mall,1245.91,No,Medium
+37,Male,26049.41,8,27.1,Sports,5167.96,0.87,Suburban,1063.24,Yes,Medium
+25,Male,95235.81,6,5.5,Groceries,4190.8,1.18,Mall,996.67,Yes,Medium
+18,Male,26008.54,5,20.4,Clothing,3620.92,0.99,Suburban,727.17,No,Low
+27,Female,55359.07,8,27.7,Toys,500.0,0.43,Downtown,1047.36,Yes,Medium
+22,Male,82984.73,9,16.2,Home & Garden,14037.08,0.71,Online,1344.33,Yes,High
+55,Male,73155.53,4,26.3,Clothing,5164.05,1.0,Downtown,1067.1,Yes,Medium
+45,Female,82493.74,9,3.7,Clothing,500.0,1.03,Airport,986.92,Yes,High
+34,Male,74525.77,6,14.8,Toys,500.0,0.58,Downtown,1240.32,No,Medium
+52,Female,126397.65,11,13.7,Toys,500.0,0.54,Suburban,1446.33,No,High
+35,Male,41423.23,9,0.2,Groceries,4700.3,1.02,Airport,968.31,No,Medium
+24,Female,47536.72,8,13.3,Electronics,4759.79,0.58,Downtown,859.15,Yes,Medium
+53,Female,45316.46,8,11.1,Electronics,3462.41,0.5,Online,771.81,No,Medium
+41,Female,100997.51,7,20.1,Clothing,1831.94,0.87,Suburban,1135.45,Yes,High
+22,Female,104605.83,7,28.1,Home & Garden,3793.69,0.85,Suburban,1383.63,Yes,High
+32,Male,83563.99,7,2.6,Groceries,3631.47,0.74,Mall,808.73,No,Medium
+24,Female,120511.7,7,9.8,Home & Garden,500.0,0.79,Suburban,1006.09,Yes,High
+18,Male,37002.28,12,13.3,Sports,1659.7,1.0,Suburban,1158.56,Yes,Medium
+46,Male,153486.41,11,13.7,Electronics,500.0,0.78,Mall,1520.24,No,High
+57,Male,142824.89,7,23.2,Electronics,11520.67,1.02,Suburban,1419.52,Yes,High
+18,Female,96333.01,4,13.3,Groceries,6458.98,0.89,Downtown,867.03,Yes,Medium
+41,Male,162535.99,14,0.8,Clothing,27753.38,1.05,Airport,2016.62,No,High
+27,Female,29127.66,10,21.3,Electronics,1798.91,1.26,Airport,1140.75,Yes,Medium
+29,Female,51304.37,11,26.5,Home & Garden,10538.62,1.25,Suburban,1248.16,Yes,Medium
+27,Female,46170.83,5,15.4,Books,4619.78,1.39,Suburban,790.51,Yes,Medium
+24,Female,95654.21,13,17.4,Sports,3017.68,1.25,Mall,1466.87,Yes,High
+35,Male,39445.88,8,4.9,Books,1258.83,1.07,Suburban,913.54,Yes,Medium
+25,Male,97392.34,5,6.6,Home & Garden,6704.54,0.87,Suburban,1022.34,No,Medium
+38,Male,132325.93,7,7.1,Sports,11724.37,0.88,Online,1379.5,Yes,High
+34,Male,94405.7,8,12.9,Clothing,1341.41,0.74,Downtown,934.07,No,High
+32,Male,76851.54,10,27.8,Beauty,964.23,1.0,Mall,1330.51,Yes,High
+24,Male,40693.29,5,15.7,Clothing,5957.29,1.21,Online,1020.56,Yes,Medium
+28,Male,43666.21,5,5.8,Clothing,18855.47,0.78,Mall,968.24,No,Medium
+44,Female,124562.73,4,8.0,Clothing,6930.57,0.99,Online,1101.98,No,High
+41,Female,98462.38,5,11.5,Beauty,1674.43,0.8,Suburban,1186.16,No,Medium
+23,Male,65397.91,12,18.7,Beauty,2723.25,1.06,Suburban,1360.21,No,High
+36,Female,54111.42,2,13.2,Books,2425.12,0.84,Online,753.03,Yes,Medium
+44,Male,24218.0,7,11.8,Home & Garden,9555.93,0.78,Suburban,824.54,Yes,Medium
+18,Male,39039.49,9,16.9,Groceries,7378.27,0.8,Mall,936.55,Yes,Medium
+41,Female,173418.81,9,7.3,Beauty,4445.51,1.15,Downtown,1432.71,No,High
+27,Female,35155.19,7,2.4,Home & Garden,1607.64,0.97,Airport,748.91,Yes,Medium
+41,Male,73313.14,10,0.7,Toys,13902.18,0.87,Suburban,1104.64,Yes,Medium
+25,Female,110357.16,8,7.5,Clothing,5296.7,1.08,Suburban,1026.61,Yes,High
+18,Female,35606.87,10,2.7,Clothing,17612.87,0.88,Suburban,924.04,No,Medium
+18,Female,73138.52,10,10.1,Toys,4338.9,1.34,Mall,1184.88,Yes,Medium
+35,Female,106586.6,3,23.2,Electronics,8607.23,0.71,Downtown,1126.48,Yes,Medium
+38,Female,67104.4,4,21.5,Toys,8386.05,0.94,Mall,965.64,Yes,Medium
+24,Male,200000.0,7,18.3,Groceries,2057.38,0.58,Suburban,1495.41,Yes,High
+42,Male,28953.77,7,25.6,Toys,16624.06,0.9,Downtown,973.38,Yes,Medium
+18,Male,113223.56,8,8.5,Clothing,500.0,0.5,Airport,1063.3,No,High
+34,Male,61166.47,4,26.6,Sports,7320.43,1.22,Suburban,1170.75,Yes,Medium
+20,Female,98097.32,9,12.0,Groceries,16842.26,1.23,Suburban,1408.71,No,High
+27,Male,83150.61,13,12.0,Home & Garden,2069.31,1.24,Suburban,1233.47,Yes,High
+35,Female,46220.43,8,12.2,Groceries,5222.19,1.01,Mall,843.39,Yes,Medium
+24,Female,74776.09,9,2.9,Beauty,4130.23,0.74,Online,1037.96,No,Medium
+30,Female,26338.96,10,29.3,Home & Garden,7167.08,0.76,Downtown,1103.96,No,Medium
+47,Female,90163.42,5,4.2,Clothing,10056.22,1.46,Suburban,1052.6,No,Medium
+28,Female,77407.16,6,10.2,Toys,4619.66,1.43,Downtown,995.59,Yes,Medium
+45,Male,91774.1,5,9.6,Clothing,8461.51,1.04,Airport,1070.7,No,Medium
+21,Female,113189.02,10,2.2,Groceries,1871.91,0.85,Suburban,1151.31,No,High
+41,Male,80142.79,7,4.6,Electronics,1297.66,1.41,Mall,1006.36,Yes,Medium
+52,Female,71811.51,9,1.3,Toys,2816.45,0.79,Suburban,863.59,Yes,Medium
+18,Male,42925.49,11,8.8,Clothing,5661.93,1.07,Airport,1179.38,Yes,Medium
+25,Female,46706.79,7,26.0,Clothing,1036.64,1.41,Suburban,1073.98,Yes,Medium
+41,Female,120707.14,8,10.2,Toys,5702.68,0.75,Online,1272.58,No,High
+32,Male,136751.81,9,3.7,Books,2505.15,1.25,Downtown,1212.24,No,High
+39,Male,59201.38,9,19.4,Electronics,7937.78,1.16,Suburban,1374.67,Yes,Medium
+27,Female,68237.98,5,29.9,Sports,500.0,0.99,Airport,1163.69,No,Medium
+36,Female,42423.09,10,7.0,Toys,5512.84,0.7,Mall,751.31,No,Medium
+33,Female,119866.48,8,8.4,Electronics,5246.57,0.78,Downtown,1112.25,Yes,High
+49,Female,93010.13,11,29.2,Books,14145.62,1.09,Online,1636.13,Yes,High
+38,Male,176021.95,8,5.4,Groceries,6247.77,0.57,Suburban,1232.53,No,High
+39,Male,42984.45,5,15.3,Home & Garden,7955.58,1.04,Downtown,856.34,Yes,Medium
+30,Male,55201.83,9,7.2,Groceries,11747.91,1.16,Suburban,1144.61,No,Medium
+29,Female,74867.73,9,28.0,Home & Garden,5620.45,1.3,Suburban,1338.79,Yes,Medium
+29,Male,92134.07,9,29.4,Electronics,1713.53,0.58,Airport,1315.01,Yes,High
+39,Female,59869.44,5,24.4,Sports,10192.41,1.39,Suburban,1055.02,No,Medium
+29,Female,43099.85,10,9.4,Electronics,6883.27,1.51,Suburban,919.72,No,Medium
+38,Female,103617.24,10,12.1,Groceries,2762.04,1.12,Suburban,1403.18,Yes,High
+59,Female,95637.76,9,7.3,Clothing,6198.5,0.69,Suburban,1218.77,No,High
+45,Female,42176.49,8,26.7,Books,10113.0,0.9,Online,1374.54,Yes,Medium
+31,Male,131331.07,8,27.4,Clothing,18576.55,0.99,Online,1383.4,Yes,High
+49,Female,119713.26,10,12.6,Groceries,15219.52,1.08,Suburban,1568.31,No,High
+30,Female,71317.96,10,19.7,Groceries,1967.64,1.01,Downtown,1018.29,Yes,Medium
+18,Female,69393.9,3,5.0,Sports,2738.26,1.08,Online,909.04,Yes,Medium
+22,Female,87972.91,14,13.0,Groceries,580.07,0.97,Downtown,1445.7,Yes,High
+18,Male,43343.14,11,18.9,Books,1422.07,1.08,Downtown,1054.53,Yes,Medium
+30,Male,67695.23,8,11.6,Electronics,10703.23,0.86,Downtown,1155.49,Yes,Medium
+35,Female,22732.79,8,10.7,Clothing,2238.08,0.9,Downtown,748.51,No,Medium
+55,Male,103361.01,8,0.0,Groceries,4845.2,0.83,Airport,1074.6,Yes,High
+38,Female,30546.6,9,24.1,Toys,5482.56,1.58,Mall,1208.73,Yes,Medium
+32,Female,141416.57,12,26.7,Electronics,7612.39,1.44,Online,1994.61,Yes,High
+44,Male,56539.53,13,29.1,Electronics,1009.36,1.17,Downtown,1601.49,Yes,High
+18,Female,59989.32,11,21.6,Clothing,1817.87,1.4,Suburban,1253.93,Yes,Medium
+37,Male,48722.12,7,16.5,Home & Garden,2974.08,1.24,Online,1101.47,Yes,Medium
+44,Female,57741.75,7,8.1,Groceries,2269.4,1.05,Airport,940.64,No,Medium
+18,Female,135539.85,5,30.0,Books,20344.91,0.55,Mall,1286.6,Yes,High
+48,Female,20000.0,6,17.7,Electronics,9007.26,0.92,Downtown,765.05,No,Medium
+39,Male,126277.6,3,20.4,Clothing,3266.62,0.9,Airport,1326.34,Yes,High
+30,Male,78965.55,9,20.5,Clothing,10570.94,0.66,Suburban,1257.53,No,Medium
+42,Female,36469.97,13,25.4,Home & Garden,2135.89,0.55,Suburban,1288.13,No,Medium
+62,Female,38952.53,7,0.3,Home & Garden,7704.89,1.15,Mall,800.71,No,Medium
+37,Female,154191.68,7,6.6,Electronics,1265.92,1.1,Mall,1236.6,Yes,High
+37,Male,41564.51,11,20.0,Toys,7399.12,0.65,Mall,1129.86,Yes,Medium
+29,Male,37461.91,6,26.9,Clothing,3048.2,0.78,Mall,884.21,No,Medium
+24,Male,117761.01,9,20.6,Sports,568.64,1.35,Downtown,1272.71,Yes,High
+44,Female,78986.46,13,12.4,Groceries,1595.95,0.74,Suburban,1166.08,Yes,High
+24,Male,41722.36,11,10.8,Clothing,2573.12,1.05,Mall,1138.61,No,Medium
+35,Male,74314.98,11,22.1,Books,6917.35,0.94,Suburban,1300.36,No,High
+29,Female,39929.83,8,22.2,Books,500.0,1.15,Suburban,1026.33,Yes,Medium
+40,Male,115631.76,12,18.2,Groceries,5387.39,0.74,Downtown,1489.8,No,High
+39,Female,113373.25,12,8.7,Groceries,6294.15,1.03,Suburban,1459.04,No,High
+47,Female,87008.26,15,27.8,Clothing,5305.45,1.05,Online,1768.37,Yes,High
+28,Female,79904.37,4,16.6,Home & Garden,7149.55,1.07,Suburban,874.37,No,Medium
+31,Male,160869.59,6,23.7,Clothing,981.1,1.02,Suburban,1478.87,No,High
+23,Male,66675.87,5,6.4,Books,4422.79,1.1,Mall,932.22,No,Medium
+29,Female,36931.43,8,10.3,Clothing,14163.39,1.66,Downtown,1228.61,Yes,Medium
+39,Female,83490.84,10,26.2,Electronics,4718.11,1.77,Online,1369.45,Yes,High
+44,Female,189241.41,7,1.5,Clothing,4725.2,0.81,Suburban,1387.89,No,High
+23,Male,40149.91,7,15.4,Clothing,6667.36,0.3,Online,970.48,Yes,Medium
+45,Female,55660.38,3,14.5,Groceries,2026.36,1.18,Downtown,773.0,No,Medium
+51,Female,82123.4,10,22.5,Clothing,6027.8,1.06,Downtown,1386.98,Yes,High
+39,Female,64912.98,9,8.5,Sports,12398.63,1.32,Suburban,1271.16,Yes,Medium
+57,Female,40806.78,8,6.6,Clothing,500.0,1.09,Suburban,755.57,Yes,Medium
+25,Female,116854.42,9,27.8,Sports,10205.45,1.02,Airport,1703.85,Yes,High
+20,Female,200000.0,7,17.2,Groceries,1233.46,1.34,Downtown,1685.35,Yes,High
+18,Male,73557.38,7,3.1,Beauty,3043.33,1.38,Mall,1046.0,Yes,Medium
+52,Female,42434.68,10,5.8,Beauty,9564.48,0.58,Downtown,781.06,No,Medium
+42,Male,30738.62,6,30.0,Toys,8683.86,0.76,Airport,1045.37,Yes,Medium
+34,Male,75867.47,6,5.9,Sports,11124.76,0.97,Airport,1030.67,No,Medium
+38,Male,115808.58,8,18.3,Groceries,14101.91,1.03,Suburban,1574.88,No,High
+21,Male,84570.36,11,12.6,Sports,2963.41,0.93,Downtown,1213.33,Yes,High
+64,Male,66606.23,8,26.6,Beauty,5340.86,1.13,Mall,1124.22,Yes,Medium
+36,Male,49668.16,11,22.7,Electronics,2475.4,1.3,Downtown,1200.25,Yes,Medium
+36,Female,38625.71,8,17.9,Groceries,2159.43,1.52,Downtown,1014.4,Yes,Medium
+43,Female,101228.03,10,0.3,Clothing,2824.61,1.17,Mall,1075.88,Yes,High
+40,Male,105307.62,6,26.4,Groceries,6794.88,0.74,Online,1348.61,No,High
+37,Female,30788.31,8,13.3,Groceries,3480.16,0.96,Online,1020.01,Yes,Medium
+25,Female,147661.06,7,27.9,Groceries,8411.65,0.98,Mall,1504.27,Yes,High
+40,Male,88857.65,7,14.9,Groceries,6836.74,1.15,Suburban,1129.21,Yes,Medium
+57,Male,134262.56,3,20.8,Beauty,500.0,1.12,Online,964.17,Yes,High
+51,Female,34087.68,11,2.1,Groceries,4974.48,1.62,Suburban,1155.4,Yes,Medium
+54,Female,33686.19,7,22.4,Books,2868.57,0.86,Suburban,1080.7,No,Medium
+28,Female,61899.7,6,10.1,Clothing,3049.81,1.12,Online,848.78,No,Medium
+23,Male,85746.24,11,10.5,Groceries,8529.0,1.71,Downtown,1427.17,Yes,High
+33,Male,163723.73,2,3.6,Groceries,3966.03,0.82,Downtown,1066.16,No,High
+35,Male,94920.48,7,4.4,Clothing,10841.22,1.04,Mall,1279.06,No,High
+48,Male,59066.23,9,5.6,Groceries,6237.98,0.72,Downtown,977.77,Yes,Medium
+18,Male,39917.52,8,9.8,Groceries,4024.19,1.02,Suburban,929.03,Yes,Medium
+53,Male,123346.85,12,26.8,Groceries,7023.07,0.77,Suburban,1623.29,Yes,High
+33,Female,41167.42,6,11.0,Home & Garden,500.0,1.31,Suburban,706.84,No,Medium
+29,Female,150540.82,13,21.7,Groceries,500.0,1.04,Online,1563.41,Yes,High
+22,Male,57847.35,11,2.5,Clothing,500.0,0.72,Downtown,884.11,No,Medium
+18,Female,147715.93,12,17.7,Home & Garden,2877.4,1.25,Suburban,1772.98,Yes,High
+44,Male,93640.75,4,14.5,Electronics,1342.34,1.05,Downtown,925.84,Yes,Medium
+35,Male,62271.4,14,29.3,Clothing,20758.16,1.29,Mall,1664.25,Yes,High
+19,Male,51434.12,4,25.4,Electronics,3907.6,0.66,Mall,783.81,No,Medium
+19,Female,56235.38,12,13.6,Electronics,5429.7,1.11,Suburban,1232.97,Yes,Medium
+30,Female,82612.28,5,23.3,Clothing,1634.33,1.23,Downtown,1260.17,Yes,Medium
+55,Female,69309.24,6,5.8,Electronics,1941.54,0.87,Mall,825.68,Yes,Medium
+31,Male,49555.55,12,16.9,Clothing,2043.32,0.62,Suburban,1041.74,No,Medium
+18,Female,61386.15,9,2.2,Home & Garden,5998.84,0.99,Downtown,987.79,No,Medium
+32,Male,69358.49,10,10.4,Electronics,3209.48,1.37,Suburban,1374.28,Yes,Medium
+31,Female,23003.19,9,6.8,Groceries,3645.78,1.34,Suburban,867.58,No,Medium
+18,Female,83854.58,8,21.6,Toys,4482.48,0.87,Online,1066.41,Yes,Medium
+34,Male,40859.5,11,14.7,Books,7322.61,0.62,Airport,1013.39,Yes,Medium
+32,Female,37462.25,7,22.5,Clothing,500.0,0.87,Mall,923.1,Yes,Medium
+43,Female,28683.67,10,15.5,Toys,7500.09,0.86,Online,1090.23,Yes,Medium
+57,Male,27195.56,7,2.6,Clothing,4141.8,1.13,Mall,858.21,Yes,Medium
+48,Female,33861.42,16,22.1,Electronics,5529.63,0.97,Online,1306.51,Yes,High
+31,Male,46781.58,7,25.0,Beauty,1984.15,0.77,Downtown,874.48,Yes,Medium
+21,Female,177084.95,12,27.1,Toys,2632.97,1.33,Suburban,1869.11,Yes,High
+65,Female,51267.66,5,17.2,Groceries,1314.4,1.04,Mall,925.63,No,Medium
+35,Female,72884.43,7,22.6,Home & Garden,19388.11,1.13,Mall,1173.69,No,Medium
+35,Female,81470.48,11,22.6,Home & Garden,3435.86,0.48,Downtown,1185.59,Yes,High
+34,Female,71202.83,8,4.7,Clothing,27704.39,0.3,Suburban,1021.45,No,Medium
+37,Male,64153.48,11,4.9,Clothing,3364.62,0.57,Suburban,1107.87,No,Medium
+33,Female,36684.46,6,2.1,Groceries,1240.71,0.86,Suburban,710.25,No,Medium
+28,Male,137753.21,9,9.6,Toys,3540.82,1.17,Suburban,1480.33,Yes,High
+28,Female,164613.17,7,14.2,Electronics,500.0,0.3,Suburban,1376.76,Yes,High
+34,Male,28750.95,5,29.9,Books,11757.29,1.48,Online,1051.37,Yes,Medium
+28,Male,39964.27,8,12.9,Electronics,8533.88,1.05,Mall,872.35,No,Medium
+26,Female,57979.81,4,21.8,Groceries,6469.86,1.41,Airport,887.8,Yes,Medium
+36,Male,41170.88,4,20.8,Home & Garden,4705.82,0.73,Online,589.63,No,Medium
+31,Female,85882.73,4,6.1,Home & Garden,4335.53,1.15,Suburban,846.55,Yes,Medium
+53,Male,46333.44,12,1.8,Electronics,28612.1,1.03,Suburban,1263.87,No,Medium
+18,Male,196866.93,6,16.4,Groceries,1628.63,1.25,Downtown,1628.38,Yes,High
+48,Female,120937.55,9,21.0,Groceries,7563.47,0.93,Online,1427.21,Yes,High
+49,Male,74164.61,8,29.9,Electronics,4354.25,1.14,Downtown,1230.92,Yes,Medium
+18,Male,111440.76,4,10.8,Electronics,18623.68,1.33,Mall,1213.11,Yes,Medium
+30,Female,115925.79,10,26.9,Home & Garden,8795.59,0.8,Suburban,1397.01,Yes,High
+30,Male,50301.07,13,11.5,Groceries,32595.87,1.07,Online,1617.62,No,Medium
+18,Female,44340.19,7,20.7,Clothing,4437.61,0.43,Suburban,794.26,No,Medium
+25,Male,69343.44,6,17.9,Groceries,1144.2,1.21,Airport,907.53,Yes,Medium
+21,Male,102597.96,11,1.6,Toys,3502.74,1.59,Suburban,1427.59,No,High
+56,Female,71488.04,6,2.4,Electronics,6208.57,0.63,Suburban,866.7,Yes,Medium
+46,Male,30310.73,8,0.6,Home & Garden,7444.08,0.97,Mall,628.88,No,Medium
+50,Male,44638.1,6,11.1,Electronics,500.0,1.26,Online,940.32,Yes,Medium
+43,Male,64264.9,13,22.4,Electronics,3516.26,1.01,Suburban,1304.66,Yes,High
+21,Male,64210.53,7,5.2,Clothing,1340.93,1.05,Online,855.45,No,Medium
+28,Female,178800.58,5,18.2,Groceries,10393.68,0.88,Airport,1476.18,Yes,High
+40,Male,33348.27,8,8.7,Books,829.71,0.87,Airport,867.22,No,Medium
+20,Female,85866.57,5,23.9,Clothing,5489.91,0.97,Suburban,1141.02,No,Medium
+43,Female,140408.57,12,24.0,Home & Garden,1546.65,1.01,Suburban,1638.02,Yes,High
+32,Male,200000.0,11,23.3,Groceries,2204.49,0.65,Downtown,1725.03,No,High
+30,Female,54478.24,11,15.7,Clothing,14113.88,0.98,Online,1312.39,No,Medium
+43,Male,85260.79,8,8.5,Groceries,1375.13,1.47,Online,1136.28,Yes,Medium
+40,Female,88666.33,5,24.3,Books,500.0,0.87,Mall,1222.83,Yes,Medium
+30,Male,73533.48,9,5.6,Books,500.0,0.63,Suburban,1001.8,Yes,Medium
+48,Female,63470.64,12,8.7,Books,3512.1,0.95,Downtown,1085.16,No,High
+22,Female,82929.24,14,5.5,Clothing,5132.08,0.79,Online,1261.22,No,High
+42,Male,20000.0,4,20.2,Books,1982.23,0.6,Downtown,629.67,No,Low
+42,Female,93787.8,6,20.6,Clothing,5860.11,1.04,Airport,1293.68,Yes,Medium
+31,Female,71029.05,11,19.6,Sports,500.0,0.79,Suburban,1345.45,Yes,High
+38,Male,59666.01,9,12.5,Toys,9736.27,0.81,Suburban,1043.87,Yes,Medium
+19,Male,185569.8,10,3.0,Electronics,8479.53,1.05,Airport,1503.85,No,High
+46,Female,47585.73,5,27.3,Groceries,21166.75,0.54,Downtown,934.8,Yes,Medium
+32,Female,54514.24,4,15.2,Home & Garden,13783.97,0.48,Suburban,837.73,No,Medium
+28,Female,180508.28,5,12.2,Sports,2201.81,1.2,Online,1616.77,Yes,High
+47,Female,43990.31,8,17.7,Clothing,2548.09,0.42,Mall,923.83,Yes,Medium
+26,Female,50650.16,12,5.8,Beauty,6851.41,0.71,Airport,919.56,No,Medium
+18,Female,61959.89,6,4.0,Home & Garden,719.83,0.46,Airport,624.77,No,Medium
+18,Male,101531.31,16,12.2,Clothing,1884.5,0.85,Downtown,1472.33,Yes,High
+42,Male,73987.88,5,6.8,Electronics,630.88,1.13,Downtown,776.07,No,Medium
+19,Female,34941.92,7,7.3,Books,3033.81,1.03,Suburban,766.88,No,Medium
+56,Female,51106.71,10,26.8,Electronics,4014.86,1.72,Suburban,1401.55,No,Medium
+18,Male,49221.12,7,15.9,Electronics,1185.96,1.33,Suburban,1059.36,Yes,Medium
+55,Male,64160.61,10,14.5,Groceries,500.0,0.72,Airport,1170.64,No,Medium
+37,Female,82510.19,6,20.7,Home & Garden,6353.34,0.64,Downtown,1094.92,Yes,Medium
+33,Female,82195.69,8,28.5,Home & Garden,500.0,1.81,Mall,1199.47,No,Medium
+28,Male,27439.79,10,3.4,Groceries,18134.71,1.32,Downtown,987.7,Yes,Medium
+39,Male,113519.03,5,25.0,Sports,1252.62,1.18,Downtown,1205.07,Yes,High
+34,Male,75662.63,6,17.5,Beauty,5451.73,1.02,Suburban,1064.0,Yes,Medium
+48,Male,133255.19,10,4.4,Clothing,2852.45,1.08,Airport,1430.31,Yes,High
+36,Male,83270.9,3,8.9,Sports,500.0,0.56,Downtown,706.36,Yes,Medium
+36,Male,115660.77,1,14.5,Toys,3195.03,1.05,Mall,923.36,No,Medium
+30,Female,84206.55,5,20.7,Home & Garden,3636.22,1.02,Mall,1072.28,Yes,Medium
+34,Male,130727.22,14,7.3,Home & Garden,9644.2,0.73,Downtown,1534.39,No,High
+38,Female,86584.89,8,16.0,Clothing,6590.36,0.84,Suburban,1163.05,Yes,Medium
+18,Female,63500.16,7,20.5,Groceries,500.0,1.45,Online,1228.08,No,Medium
+18,Male,200000.0,7,13.5,Groceries,1173.32,0.96,Suburban,1514.16,Yes,High
+43,Female,104013.28,11,25.9,Sports,1869.02,1.62,Downtown,1582.33,Yes,High
+37,Male,88843.13,8,26.1,Beauty,618.8,0.48,Mall,1129.57,No,High
+32,Female,35228.23,2,14.1,Electronics,3052.3,0.84,Mall,716.76,No,Low
+35,Male,35017.44,14,29.2,Electronics,20773.4,0.54,Downtown,1342.0,Yes,Medium
+39,Female,77196.78,9,2.3,Electronics,3614.04,0.64,Downtown,1135.81,No,Medium
+28,Female,71719.35,5,0.1,Sports,6771.7,0.75,Downtown,650.22,No,Medium
+25,Male,49054.83,11,11.4,Electronics,5743.29,1.09,Downtown,1079.32,No,Medium
+37,Male,71556.79,7,18.0,Home & Garden,9482.65,1.08,Suburban,1213.46,Yes,Medium
+23,Female,147571.6,6,18.9,Clothing,1214.97,0.8,Suburban,1378.31,Yes,High
+39,Female,94415.12,9,14.3,Groceries,7008.59,0.33,Suburban,982.46,Yes,High
+18,Male,37693.8,9,3.7,Clothing,10658.11,1.44,Online,930.03,Yes,Medium
+47,Female,63070.02,7,5.1,Toys,940.75,0.91,Mall,883.84,Yes,Medium
+40,Male,44590.32,5,25.6,Groceries,2129.38,0.67,Online,1080.55,No,Medium
+38,Female,54934.97,6,26.0,Toys,17549.78,1.08,Suburban,1305.52,Yes,Medium
+46,Male,54227.72,7,20.2,Groceries,7588.58,1.06,Downtown,1041.29,No,Medium
+54,Female,52519.12,13,19.9,Electronics,1660.54,0.9,Suburban,1023.16,Yes,Medium
+47,Male,35603.09,7,17.9,Clothing,4149.9,1.04,Airport,935.92,No,Medium
+18,Male,62562.91,8,6.1,Beauty,2590.31,0.65,Downtown,914.51,No,Medium
+19,Male,50385.13,2,12.8,Sports,3366.38,1.23,Downtown,678.93,Yes,Medium
+27,Male,20000.0,8,20.9,Electronics,2193.81,0.7,Suburban,769.39,No,Medium
+35,Female,186137.57,4,16.1,Sports,1637.88,0.82,Suburban,1332.53,Yes,High
+41,Male,114937.08,10,0.6,Groceries,5616.01,1.19,Suburban,1185.77,Yes,High
+26,Female,55248.97,11,28.6,Clothing,7537.61,1.36,Downtown,1601.06,Yes,Medium
+37,Male,67316.78,7,25.3,Clothing,10355.67,1.48,Suburban,1433.86,Yes,Medium
+25,Male,37120.63,11,7.8,Books,844.05,1.32,Mall,1120.25,No,Medium
+27,Male,155689.16,10,18.5,Electronics,8653.95,0.9,Suburban,1609.77,No,High
+18,Male,172197.89,11,27.7,Clothing,1470.52,0.54,Mall,1600.72,Yes,High
+23,Male,72121.12,12,2.9,Clothing,2787.28,1.42,Suburban,1239.6,No,High
+18,Male,111248.38,7,15.1,Clothing,11585.64,1.41,Suburban,1526.56,No,High
+23,Female,72794.72,7,13.7,Groceries,3030.3,0.8,Downtown,1067.16,Yes,Medium
+47,Male,34179.88,8,12.3,Electronics,1097.4,1.28,Suburban,952.03,Yes,Medium
+23,Female,54276.34,10,25.1,Clothing,870.99,0.9,Downtown,1258.33,Yes,Medium
+66,Female,71233.55,11,11.4,Toys,3202.62,1.45,Suburban,1337.47,Yes,High
+40,Male,53129.17,10,1.9,Clothing,7191.57,0.85,Mall,1021.02,Yes,Medium
+37,Male,59780.13,9,2.0,Groceries,29399.87,1.59,Downtown,1429.86,Yes,Medium
+24,Female,63707.37,3,1.3,Groceries,7741.92,1.24,Suburban,804.74,No,Medium
+43,Female,64043.39,7,12.3,Groceries,10478.34,1.54,Downtown,1238.34,Yes,Medium
+28,Female,68451.76,3,21.6,Books,6888.31,0.86,Downtown,908.41,Yes,Medium
+36,Male,39240.03,10,6.1,Clothing,11289.74,1.12,Suburban,1036.29,No,Medium
+65,Female,46594.94,7,19.4,Toys,500.0,0.71,Online,830.17,No,Medium
+33,Female,35082.69,6,20.6,Sports,13291.42,1.25,Suburban,969.0,Yes,Medium
+48,Female,108734.35,11,7.7,Sports,2524.27,1.27,Suburban,1198.73,No,High
+26,Female,23270.27,7,18.0,Electronics,12730.56,1.72,Mall,1006.89,Yes,Medium
+34,Male,118723.25,12,20.5,Electronics,500.0,1.14,Mall,1439.52,Yes,High
+56,Male,133376.33,4,14.0,Groceries,6280.59,1.22,Online,1151.25,Yes,High
+27,Female,57334.91,8,10.1,Toys,6653.14,0.86,Online,1134.4,Yes,Medium
+56,Female,20000.0,8,18.6,Groceries,28899.36,1.16,Airport,1175.05,Yes,Medium
+43,Male,55664.62,4,29.3,Clothing,7323.56,0.89,Online,999.55,Yes,Medium
+28,Male,64580.2,11,12.8,Electronics,2410.98,1.03,Downtown,1205.48,No,Medium
+42,Male,40233.54,7,11.8,Home & Garden,4073.73,1.05,Mall,1045.61,No,Medium
+46,Male,51541.68,8,13.9,Sports,2282.88,0.89,Online,897.89,Yes,Medium
+42,Female,143322.54,11,2.3,Clothing,1090.9,1.02,Mall,1362.61,Yes,High
+18,Female,92987.36,3,16.6,Electronics,1428.44,0.89,Online,884.59,No,Medium
+26,Male,42002.03,10,9.9,Groceries,1255.21,0.89,Downtown,1077.43,Yes,Medium
+32,Male,30000.09,11,3.6,Groceries,3979.39,1.32,Suburban,1149.8,Yes,Medium
+34,Male,56627.31,3,14.0,Sports,11830.85,1.05,Online,902.24,Yes,Medium
+42,Male,59935.66,10,0.1,Books,12193.55,1.1,Suburban,1216.78,No,Medium
+37,Female,85464.37,9,12.1,Home & Garden,500.0,0.56,Mall,1062.43,No,High
+18,Female,51026.32,8,3.2,Electronics,500.0,1.13,Downtown,857.76,No,Medium
+39,Female,86120.7,9,0.7,Home & Garden,1405.98,1.16,Mall,1179.59,Yes,High
+42,Male,175489.12,7,24.7,Beauty,1472.25,0.88,Online,1567.79,No,High
+41,Female,100258.37,6,27.5,Toys,500.0,1.63,Suburban,1249.29,Yes,High
+47,Female,65102.03,10,6.2,Toys,2458.9,0.31,Downtown,1020.24,Yes,Medium
+45,Female,60850.79,12,16.2,Clothing,4430.33,1.24,Downtown,1286.06,Yes,High
+40,Male,55793.84,8,8.3,Sports,4315.67,1.21,Online,968.32,No,Medium
+34,Male,120339.93,9,14.8,Toys,3920.06,1.16,Mall,1460.41,Yes,High
+18,Male,48732.36,11,13.1,Home & Garden,2067.53,1.05,Downtown,1106.42,Yes,Medium
+40,Male,68211.38,9,8.1,Clothing,6128.63,1.17,Downtown,1148.44,No,Medium
+37,Male,68415.47,6,21.0,Beauty,8757.43,1.26,Airport,1200.92,No,Medium
+38,Male,51889.06,8,3.8,Groceries,2125.34,0.78,Airport,753.61,No,Medium
+19,Female,33574.51,6,1.6,Electronics,500.0,1.09,Downtown,717.33,No,Medium
+22,Female,78373.61,9,23.0,Electronics,1757.23,0.95,Suburban,1348.08,No,Medium
+47,Male,64682.97,7,20.0,Home & Garden,738.84,0.67,Airport,865.63,No,Medium
+34,Male,85637.24,7,15.0,Groceries,3149.54,1.22,Suburban,1176.34,Yes,Medium
+43,Female,51070.13,6,14.0,Electronics,847.63,0.83,Online,744.46,Yes,Medium
+35,Female,122782.03,9,14.9,Sports,3107.34,0.55,Suburban,1353.93,Yes,High
+35,Female,43017.76,13,13.1,Books,1248.74,0.84,Mall,1241.57,Yes,Medium
+46,Female,156964.57,5,11.8,Sports,6711.03,0.76,Suburban,1205.76,Yes,High
+28,Female,27831.87,2,15.0,Clothing,500.0,1.31,Online,853.64,Yes,Low
+36,Female,82879.28,5,15.9,Home & Garden,4045.56,1.05,Suburban,1114.64,Yes,Medium
+29,Male,84581.48,6,20.8,Electronics,928.57,1.41,Downtown,1223.34,Yes,Medium
+29,Male,44800.6,9,21.3,Clothing,500.0,0.8,Suburban,1079.74,No,Medium
+31,Male,82450.41,11,11.3,Groceries,10170.43,1.26,Online,1459.09,Yes,High
+37,Male,126438.92,9,12.4,Books,5566.52,1.85,Suburban,1427.31,Yes,High
+29,Male,22012.06,5,11.2,Groceries,520.93,1.11,Suburban,699.75,No,Low
+50,Female,85744.54,10,16.1,Electronics,5454.3,1.26,Suburban,1362.83,Yes,High
+24,Female,20000.0,5,13.6,Groceries,4729.21,1.21,Downtown,718.22,Yes,Low
+32,Female,41147.68,14,26.7,Groceries,3206.16,0.57,Downtown,1331.67,Yes,Medium
+29,Male,150593.35,5,20.9,Toys,2717.24,1.18,Suburban,1471.96,No,High
+52,Female,49854.51,8,27.0,Toys,10904.93,1.09,Mall,1162.99,No,Medium
+37,Female,37079.34,6,21.3,Clothing,1406.17,0.92,Mall,860.53,No,Medium
+47,Male,60402.54,13,29.1,Clothing,2540.07,0.73,Airport,1282.98,No,High
+18,Female,187532.69,8,19.1,Clothing,1995.79,1.21,Online,1455.28,Yes,High
+38,Male,26686.53,6,28.9,Books,7374.56,0.71,Suburban,993.49,No,Medium
+45,Male,39422.83,7,4.7,Electronics,12412.47,1.64,Mall,1010.83,No,Medium
+35,Female,140993.79,5,1.6,Electronics,9478.33,1.03,Downtown,1159.87,No,High
+47,Male,168823.06,11,17.4,Groceries,7990.11,0.63,Downtown,1535.25,No,High
+28,Male,63325.27,11,29.5,Clothing,21633.89,0.85,Downtown,1475.8,Yes,Medium
+51,Female,35890.54,9,12.5,Electronics,5972.5,0.92,Suburban,1077.24,Yes,Medium
+62,Female,190170.64,5,6.4,Groceries,6952.59,1.72,Downtown,1520.73,No,High
+30,Male,148001.32,11,15.6,Clothing,20314.97,0.73,Suburban,1675.66,No,High
+29,Male,93641.48,6,19.5,Groceries,500.0,0.97,Mall,1103.95,Yes,Medium
+52,Male,44424.84,10,9.5,Beauty,5026.27,0.84,Suburban,874.46,No,Medium
+53,Female,65071.41,4,21.4,Electronics,6715.63,1.15,Mall,1044.73,No,Medium
+28,Male,61548.16,7,29.3,Groceries,12494.65,0.84,Suburban,1067.56,No,Medium
+29,Male,78682.88,11,26.9,Toys,10764.12,0.66,Downtown,1292.18,Yes,High
+31,Female,137758.3,10,8.7,Toys,9224.56,0.94,Downtown,1336.6,Yes,High
+18,Female,103514.17,7,9.8,Groceries,14574.57,0.91,Downtown,1189.57,No,High
+23,Male,38912.36,10,11.1,Home & Garden,3854.24,0.82,Downtown,940.9,No,Medium
+22,Female,132720.87,8,11.8,Electronics,500.0,0.84,Mall,1243.55,No,High
+25,Female,77988.87,3,3.0,Sports,500.0,1.36,Airport,690.51,No,Medium
+34,Male,94022.39,7,22.9,Beauty,3933.32,0.9,Suburban,1291.46,No,High
+37,Male,138832.81,6,11.0,Groceries,2857.06,0.66,Suburban,1232.4,Yes,High
+53,Female,38252.54,8,26.4,Groceries,3000.52,0.86,Airport,1008.28,Yes,Medium
+23,Male,65502.43,9,27.8,Clothing,2557.5,1.02,Downtown,1181.93,Yes,Medium
+46,Female,51124.95,10,0.7,Home & Garden,12488.49,0.6,Downtown,906.79,No,Medium
+32,Male,30449.52,12,29.7,Groceries,2224.96,1.49,Suburban,1312.67,Yes,Medium
+34,Male,79309.27,10,21.3,Home & Garden,9697.6,1.26,Mall,1252.46,Yes,High
+43,Male,200000.0,7,15.6,Electronics,11658.26,1.43,Mall,1645.77,Yes,High
+21,Male,26574.74,7,11.7,Groceries,3460.76,1.12,Mall,921.88,No,Medium
+39,Male,65618.63,13,15.6,Groceries,2961.43,0.37,Downtown,1213.58,No,High
+36,Male,91860.53,8,9.7,Clothing,7156.89,1.46,Suburban,1406.87,Yes,High
+40,Female,70919.05,13,18.7,Clothing,6154.52,0.74,Downtown,1312.31,Yes,High
+38,Female,63018.98,5,2.8,Clothing,1991.47,0.77,Airport,677.41,No,Medium
+64,Female,34826.96,7,18.6,Sports,540.98,1.05,Online,855.11,Yes,Medium
+27,Female,74917.94,9,8.3,Home & Garden,1538.42,1.41,Suburban,1111.32,Yes,Medium
+28,Male,45678.06,3,0.5,Books,702.22,1.32,Downtown,549.55,Yes,Medium
+27,Female,22310.09,11,16.6,Clothing,1745.89,1.27,Suburban,1107.89,Yes,Medium
+28,Male,121182.31,5,17.4,Toys,1517.85,0.91,Downtown,1128.31,Yes,High
+27,Female,107683.13,6,12.8,Sports,5076.57,0.9,Suburban,1056.8,Yes,High
+49,Female,68431.31,8,2.2,Groceries,15449.78,1.1,Suburban,1207.5,No,Medium
+52,Female,74779.02,4,26.8,Electronics,5787.73,0.96,Online,1219.31,Yes,Medium
+28,Female,114109.56,5,18.3,Clothing,13062.52,1.27,Suburban,1409.1,Yes,High
+25,Female,74602.19,15,3.5,Beauty,7665.45,1.25,Downtown,1478.12,Yes,High
+40,Male,104795.28,4,15.3,Clothing,6507.52,1.18,Downtown,1166.38,No,Medium
+28,Male,57469.76,5,14.9,Clothing,2672.71,0.3,Downtown,910.83,No,Medium
+42,Female,128508.09,14,1.8,Clothing,1963.69,1.04,Downtown,1556.8,No,High
+37,Male,78287.88,5,18.2,Books,9363.03,0.97,Airport,986.78,No,Medium
+18,Female,73480.93,12,24.2,Clothing,11790.13,1.05,Downtown,1515.38,Yes,High
+53,Female,35338.37,13,22.5,Clothing,3006.33,0.77,Online,1269.67,No,Medium
+56,Male,76974.79,5,6.1,Groceries,500.0,0.6,Suburban,657.77,Yes,Medium
+27,Female,43992.65,6,25.9,Groceries,7863.87,1.14,Suburban,1020.24,Yes,Medium
+30,Female,48465.81,8,10.3,Groceries,1677.85,0.89,Suburban,1010.38,Yes,Medium
+38,Female,44358.85,8,28.4,Groceries,500.0,1.17,Mall,925.96,Yes,Medium
+39,Female,39129.73,6,2.2,Books,8173.49,0.8,Suburban,601.48,No,Medium
+42,Female,192941.24,3,14.6,Books,3642.98,1.42,Suburban,1403.67,No,High
+59,Female,129757.79,10,17.9,Books,5779.26,1.3,Suburban,1572.88,Yes,High
+32,Female,174196.46,6,7.4,Electronics,12307.31,1.09,Online,1304.94,Yes,High
+25,Male,36181.66,7,23.1,Books,3895.42,0.94,Suburban,945.23,Yes,Medium
+18,Male,69104.99,4,18.8,Electronics,3497.78,1.26,Suburban,1077.44,Yes,Medium
+26,Female,34926.51,7,0.5,Electronics,1717.12,1.12,Suburban,748.12,Yes,Medium
+34,Male,47094.33,10,18.3,Toys,1820.61,1.07,Downtown,1205.66,Yes,Medium
+56,Female,42137.43,4,14.7,Books,7961.48,1.31,Downtown,805.55,No,Medium
+28,Female,123939.31,10,5.9,Groceries,2980.37,1.43,Downtown,1309.82,Yes,High
+37,Male,54701.17,7,29.9,Toys,892.8,0.62,Mall,1095.59,Yes,Medium
+34,Female,113771.23,11,26.9,Beauty,500.0,0.68,Suburban,1471.95,Yes,High
+49,Female,90202.8,9,8.8,Home & Garden,3202.02,0.77,Airport,980.49,No,High
+65,Female,200000.0,7,16.2,Home & Garden,3127.02,0.55,Mall,1406.37,No,High
+28,Male,31825.82,9,9.5,Sports,5298.76,0.98,Downtown,1083.29,No,Medium
+29,Male,125162.97,6,23.3,Clothing,3184.47,1.18,Mall,1229.91,Yes,High
+47,Male,118299.61,8,27.9,Clothing,774.36,0.99,Mall,1471.81,Yes,High
+43,Female,40989.28,6,10.8,Sports,3544.38,0.84,Mall,734.37,No,Medium
+57,Male,110340.02,8,24.2,Clothing,11864.47,1.34,Mall,1487.66,Yes,High
+42,Female,78891.42,10,15.0,Electronics,868.44,1.04,Mall,1225.29,Yes,High
+30,Male,59516.99,9,11.9,Clothing,5851.96,1.1,Downtown,885.99,Yes,Medium
+42,Male,44169.4,7,28.2,Groceries,4505.28,1.35,Mall,984.07,Yes,Medium
+48,Female,46546.2,13,15.3,Beauty,6903.27,0.96,Suburban,1267.21,No,Medium
+44,Female,185843.71,9,14.0,Home & Garden,816.13,1.62,Mall,1623.69,Yes,High
+41,Male,66709.1,10,20.2,Groceries,14202.65,0.87,Downtown,1394.77,Yes,Medium
+47,Male,98599.38,7,7.8,Beauty,4850.65,1.6,Airport,1046.6,Yes,High
+49,Male,44905.05,9,9.7,Toys,9388.91,0.71,Suburban,1026.03,No,Medium
+51,Female,45153.76,7,28.0,Groceries,1415.84,1.16,Mall,925.73,Yes,Medium
+42,Female,114547.82,9,20.4,Toys,6724.09,0.81,Airport,1324.76,No,High
+32,Male,33960.97,10,24.8,Groceries,7594.12,1.34,Online,1126.18,Yes,Medium
+36,Male,54184.4,6,8.1,Clothing,2532.8,0.86,Mall,993.65,No,Medium
+49,Male,67830.62,6,16.3,Clothing,2422.16,1.09,Downtown,853.35,No,Medium
+25,Female,70505.19,1,29.1,Home & Garden,5361.75,0.8,Online,837.15,Yes,Medium
+39,Female,60974.35,10,9.6,Groceries,500.0,1.28,Mall,938.61,Yes,Medium
+30,Male,81280.81,5,4.8,Home & Garden,6651.92,0.8,Mall,1023.8,Yes,Medium
+35,Female,94294.97,13,15.3,Home & Garden,500.0,1.51,Online,1542.03,Yes,High
+50,Male,96285.6,13,11.6,Electronics,1057.25,0.7,Downtown,1331.7,Yes,High
+37,Male,40735.42,11,4.8,Electronics,5455.36,0.6,Downtown,1088.98,Yes,Medium
+35,Female,57853.99,9,26.7,Groceries,517.5,1.29,Suburban,1235.07,Yes,Medium
+18,Female,121192.65,7,29.7,Clothing,17849.64,0.82,Airport,1516.92,Yes,High
+43,Female,104305.45,6,17.1,Home & Garden,10139.8,1.0,Suburban,1219.74,Yes,High
+42,Female,33567.9,9,23.2,Groceries,4921.54,0.9,Mall,1108.11,No,Medium
+60,Male,79498.64,8,25.8,Groceries,8547.88,0.61,Suburban,1146.72,No,Medium
+31,Female,24801.08,6,21.0,Clothing,10927.57,0.98,Mall,896.57,Yes,Medium
+37,Male,68269.8,10,1.3,Home & Garden,1501.98,1.38,Airport,1169.41,No,Medium
+37,Female,172239.08,9,4.7,Books,9466.02,1.3,Downtown,1597.25,No,High
+53,Male,41514.95,7,2.1,Beauty,1083.28,1.07,Mall,757.29,No,Medium
+33,Female,43940.59,10,0.3,Books,2666.57,1.33,Airport,839.44,No,Medium
+38,Male,97711.07,8,9.2,Groceries,4085.16,0.68,Suburban,1226.22,No,High
+42,Male,30833.42,6,11.8,Clothing,6256.91,0.9,Suburban,723.37,No,Medium
+37,Female,48599.95,7,7.2,Home & Garden,500.0,1.12,Downtown,951.97,No,Medium
+29,Male,89857.09,10,1.9,Toys,1716.04,0.96,Airport,1120.32,Yes,High
+37,Female,48562.76,5,15.9,Clothing,4689.09,0.93,Suburban,714.08,Yes,Medium
+47,Male,59264.77,9,8.2,Clothing,2210.92,0.64,Suburban,1054.23,Yes,Medium
+22,Male,96746.37,5,23.9,Electronics,7458.83,0.38,Suburban,1067.27,No,Medium
+36,Male,82333.09,8,0.2,Sports,5272.77,1.25,Suburban,1180.39,Yes,Medium
+26,Male,76203.64,4,25.3,Groceries,1335.49,1.07,Mall,980.22,Yes,Medium
+49,Female,56285.61,7,28.6,Electronics,788.7,1.27,Airport,1202.94,Yes,Medium
+18,Male,80240.68,5,21.5,Toys,4958.4,0.87,Suburban,846.43,No,Medium
+28,Female,62685.72,16,22.0,Groceries,2993.44,0.79,Mall,1418.34,Yes,High
+39,Female,83839.38,2,28.0,Clothing,925.37,1.0,Mall,811.68,Yes,Medium
+53,Male,52015.1,8,6.3,Clothing,1975.4,1.26,Suburban,913.26,No,Medium
+34,Female,60868.48,9,29.8,Clothing,1805.18,0.93,Downtown,1252.96,Yes,Medium
+28,Female,40650.91,11,23.2,Groceries,572.19,1.24,Online,1144.75,Yes,Medium
+57,Female,65529.22,8,21.8,Clothing,3958.31,0.7,Mall,1156.63,No,Medium
+18,Male,44455.98,6,10.8,Groceries,7212.18,0.95,Mall,770.01,Yes,Medium
+18,Male,38205.4,11,16.4,Sports,4283.83,0.98,Downtown,1200.34,No,Medium
+40,Female,75893.46,7,19.6,Home & Garden,8751.88,1.37,Airport,1354.3,No,Medium
+28,Female,74170.75,10,18.6,Clothing,682.36,1.06,Mall,1315.68,Yes,High
+22,Female,98636.06,10,21.1,Groceries,2860.07,1.52,Airport,1420.93,Yes,High
+43,Male,53755.03,8,2.5,Books,4700.55,0.6,Online,602.58,No,Medium
+37,Female,81779.49,7,10.7,Electronics,5635.08,1.04,Online,1120.11,No,Medium
+28,Male,87829.62,3,13.0,Electronics,5950.12,1.05,Online,903.7,No,Medium
+19,Female,83294.87,13,7.8,Groceries,6527.54,1.19,Downtown,1279.7,Yes,High
+45,Male,44131.47,7,5.2,Home & Garden,5269.58,0.76,Online,734.15,Yes,Medium
+42,Female,71857.27,7,4.2,Clothing,500.0,1.51,Downtown,1140.91,Yes,Medium
+33,Male,80003.48,12,11.0,Sports,5942.23,1.0,Online,1189.81,No,High
+57,Male,66926.11,5,14.8,Home & Garden,6450.97,0.67,Suburban,922.98,Yes,Medium
+22,Female,23494.38,7,1.9,Toys,25164.35,1.0,Mall,939.37,No,Medium
+18,Male,72258.13,7,28.4,Clothing,5910.44,0.91,Downtown,1139.65,Yes,Medium
+26,Male,200000.0,6,23.0,Sports,5805.05,1.83,Airport,1852.83,Yes,High
+34,Male,55700.01,9,21.9,Electronics,3616.11,1.31,Downtown,1363.47,Yes,Medium
+37,Female,46337.96,6,5.2,Groceries,10121.85,1.01,Suburban,819.68,Yes,Medium
+32,Female,80372.68,7,18.1,Groceries,28777.64,0.97,Airport,1322.63,Yes,Medium
+39,Male,77959.47,11,15.9,Groceries,7548.98,1.29,Mall,1428.59,Yes,High
+19,Female,121069.84,10,29.5,Books,4740.2,1.3,Downtown,1698.62,Yes,High
+52,Female,35554.47,4,22.4,Electronics,500.0,0.3,Suburban,624.37,No,Medium
+34,Male,96128.91,11,17.3,Groceries,6486.64,1.19,Downtown,1396.45,Yes,High
+48,Female,89587.07,9,25.5,Clothing,6164.63,1.01,Mall,1119.84,Yes,High
+39,Female,62111.23,11,4.7,Sports,7470.92,0.61,Online,974.04,No,Medium
+40,Female,78991.77,4,0.5,Electronics,665.12,1.26,Mall,679.67,Yes,Medium
+41,Male,111578.54,7,20.7,Books,5302.72,1.67,Downtown,1478.17,Yes,High
+40,Female,103147.26,7,2.9,Books,1752.92,1.17,Suburban,1035.33,Yes,High
+42,Female,37655.93,12,3.5,Books,7141.24,1.33,Online,1101.04,No,Medium
+50,Male,100492.1,7,22.3,Clothing,1374.65,1.54,Downtown,1312.81,Yes,High
+37,Male,64563.92,14,8.1,Home & Garden,5759.73,0.75,Mall,1170.78,Yes,High
+43,Male,69161.0,7,18.9,Electronics,1747.74,0.44,Suburban,1088.52,No,Medium
+33,Male,69172.16,3,27.5,Books,500.0,1.2,Airport,1087.45,Yes,Medium
+52,Female,61860.29,9,9.5,Sports,5016.85,0.93,Online,1199.87,No,Medium
+26,Male,121007.65,13,6.5,Groceries,601.07,0.59,Suburban,1411.1,No,High
+56,Male,63952.53,6,3.2,Sports,5383.64,0.98,Mall,844.67,No,Medium
+34,Female,38100.48,5,3.9,Electronics,12992.13,1.22,Suburban,982.8,Yes,Medium
+18,Male,54775.06,6,1.9,Groceries,17408.67,0.96,Suburban,844.28,Yes,Medium
+36,Female,72918.86,5,2.6,Clothing,1345.43,0.76,Suburban,658.95,No,Medium
+26,Male,123298.39,5,13.0,Beauty,8284.04,0.93,Suburban,1103.02,No,High
+45,Male,90156.53,6,9.6,Toys,2181.32,0.99,Downtown,1044.58,No,Medium
+27,Male,43585.84,15,21.2,Sports,11535.83,0.42,Airport,1266.99,Yes,High
+29,Male,200000.0,7,26.1,Toys,7743.82,0.96,Downtown,1697.67,No,High
+18,Male,76125.83,9,23.5,Clothing,500.0,0.6,Downtown,966.35,No,Medium
+29,Female,126178.22,10,15.9,Toys,2613.96,1.2,Suburban,1498.53,Yes,High
+18,Female,61814.8,10,3.1,Clothing,2057.3,0.53,Downtown,763.76,No,Medium
+18,Male,87067.15,7,21.3,Sports,7689.8,1.3,Suburban,1170.22,Yes,Medium
+44,Female,101467.06,9,10.9,Sports,2640.59,0.88,Suburban,1305.35,Yes,High
+44,Female,122620.88,6,2.6,Electronics,5769.38,0.84,Mall,1180.07,Yes,High
+40,Female,113146.58,7,25.3,Groceries,4611.99,1.09,Online,1375.66,Yes,High
+23,Male,103141.16,9,10.1,Electronics,18573.8,0.74,Airport,1342.1,No,High
+34,Male,56966.12,7,6.5,Beauty,13885.79,1.08,Downtown,954.85,No,Medium
+34,Male,50105.31,5,26.1,Electronics,2790.46,0.78,Online,826.46,Yes,Medium
+21,Female,78752.01,9,27.1,Groceries,6429.14,0.83,Suburban,1243.8,Yes,Medium
+53,Female,106331.76,5,10.2,Books,8843.93,1.12,Suburban,956.44,No,Medium
+45,Male,59658.68,8,10.6,Clothing,11457.52,0.66,Suburban,1026.08,No,Medium
+32,Male,113588.92,5,17.4,Groceries,500.0,0.62,Suburban,1031.31,No,High
+35,Female,137869.61,12,22.0,Home & Garden,1798.25,1.07,Online,1533.99,Yes,High
+37,Female,42175.5,6,1.9,Clothing,1930.0,0.99,Suburban,869.29,No,Medium
+18,Female,43883.55,9,17.8,Sports,2849.75,1.05,Mall,1110.16,No,Medium
+32,Female,62166.26,1,28.6,Clothing,927.22,1.1,Downtown,893.14,Yes,Medium
+26,Male,77773.93,9,7.9,Clothing,3427.94,1.02,Airport,1042.05,No,Medium
+22,Female,51301.32,8,27.3,Groceries,5441.54,1.18,Airport,1177.52,No,Medium
+31,Female,131118.48,10,28.5,Groceries,3439.44,1.03,Suburban,1634.3,Yes,High
+56,Male,82436.92,10,8.1,Toys,5479.98,0.4,Mall,1074.13,No,High
+42,Female,68014.68,5,22.6,Toys,500.0,0.48,Mall,1019.71,No,Medium
+28,Female,32526.18,12,7.2,Groceries,10436.86,1.58,Mall,1207.19,Yes,Medium
+41,Male,34539.1,3,22.1,Groceries,13990.08,1.0,Mall,804.36,Yes,Low
+51,Female,76746.26,6,23.9,Clothing,4810.46,1.29,Mall,1227.32,No,Medium
+46,Female,22958.82,6,7.4,Clothing,10659.61,0.9,Downtown,629.05,Yes,Medium
+35,Female,110644.1,8,21.5,Groceries,704.63,0.98,Mall,1372.01,No,High
+27,Male,61616.09,4,24.4,Books,7983.82,0.86,Suburban,823.3,Yes,Medium
+43,Male,200000.0,8,10.8,Clothing,634.33,1.74,Suburban,1759.49,Yes,High
+39,Female,200000.0,7,5.0,Clothing,2621.33,1.08,Online,1409.91,No,High
+45,Male,60902.58,6,2.8,Groceries,1956.47,0.84,Downtown,816.89,No,Medium
+42,Female,63233.33,5,17.3,Electronics,4404.52,0.5,Suburban,922.16,No,Medium
+47,Female,109704.54,12,29.3,Sports,1794.2,1.59,Downtown,1701.81,Yes,High
+28,Male,156270.16,14,24.7,Groceries,5071.08,0.95,Downtown,1719.08,No,High
+50,Female,29399.73,10,13.1,Groceries,2289.48,1.22,Suburban,931.37,Yes,Medium
+37,Female,27297.97,7,16.1,Clothing,9858.87,1.26,Online,901.82,Yes,Medium
+59,Male,48861.15,3,8.4,Toys,5024.02,0.86,Suburban,470.56,No,Medium
+26,Female,89243.52,4,4.9,Electronics,1212.26,1.2,Mall,986.07,Yes,Medium
+55,Female,85493.2,14,14.5,Toys,2048.34,0.82,Downtown,1396.47,No,High
+37,Female,113850.45,6,13.9,Groceries,9400.36,0.7,Mall,1034.4,Yes,High
+27,Female,36603.77,10,15.7,Toys,2442.71,1.35,Online,1249.38,No,Medium
+29,Male,20945.59,10,28.6,Sports,3837.19,0.95,Suburban,1032.02,Yes,Medium
+31,Female,102412.33,10,18.1,Electronics,5234.02,1.16,Airport,1416.23,No,High
+40,Female,44075.4,9,18.2,Books,2137.09,1.12,Online,979.15,No,Medium
+41,Female,24306.8,9,3.8,Home & Garden,1740.55,1.19,Mall,643.13,Yes,Medium
+28,Female,71702.95,5,29.9,Electronics,3224.21,0.53,Suburban,850.17,Yes,Medium
+34,Male,99145.44,8,23.2,Electronics,1209.6,0.82,Mall,1177.24,Yes,High
+60,Female,62738.26,6,26.3,Home & Garden,1671.85,0.9,Airport,1111.49,Yes,Medium
+55,Male,53041.56,10,12.4,Home & Garden,500.0,0.75,Downtown,1034.77,Yes,Medium
+40,Male,61578.88,11,15.1,Sports,1811.81,1.13,Suburban,1215.46,Yes,Medium
+35,Male,55407.15,9,15.7,Sports,1933.49,1.36,Suburban,927.41,Yes,Medium
+36,Female,33986.94,8,5.8,Home & Garden,16328.94,1.4,Suburban,1170.62,Yes,Medium
+42,Female,46649.38,9,20.7,Sports,4454.68,0.9,Online,1097.93,No,Medium
+22,Female,86542.87,5,27.1,Groceries,7741.3,1.09,Suburban,1164.58,No,Medium
+31,Female,78322.84,12,4.9,Clothing,500.0,1.13,Suburban,1320.33,No,High
+18,Female,72532.15,5,2.6,Toys,563.25,1.19,Mall,945.87,Yes,Medium
+39,Female,40545.54,10,22.1,Electronics,8424.5,0.74,Downtown,1236.96,Yes,Medium
+42,Female,60900.93,9,8.2,Groceries,4884.84,1.55,Downtown,1119.13,Yes,Medium
+29,Male,22453.97,14,18.7,Sports,1059.67,1.28,Suburban,1146.4,No,Medium
+53,Male,72910.91,11,20.9,Groceries,2594.25,1.29,Suburban,1444.79,Yes,High
+20,Female,136241.47,10,9.7,Electronics,3868.24,1.36,Suburban,1339.06,Yes,High
+18,Female,31910.46,14,24.5,Electronics,9277.01,1.16,Downtown,1597.5,Yes,Medium
+37,Male,49751.28,10,16.5,Home & Garden,500.0,0.69,Suburban,1018.46,No,Medium
+47,Male,78614.28,8,26.1,Beauty,4540.65,0.96,Airport,1119.54,Yes,Medium
+55,Female,124763.67,7,22.9,Groceries,6312.18,0.5,Online,1139.72,Yes,High
+29,Male,53297.41,10,26.1,Groceries,19059.05,1.12,Downtown,1270.81,Yes,Medium
+47,Female,47175.51,6,0.6,Clothing,8229.47,0.95,Mall,788.74,No,Medium
+34,Female,24916.7,8,7.3,Clothing,1616.39,0.99,Online,789.91,No,Medium
+32,Male,70226.03,7,2.7,Electronics,6182.12,1.36,Suburban,880.08,No,Medium
+45,Male,185126.25,12,13.3,Clothing,7204.34,0.86,Online,1713.34,No,High
+42,Female,76606.29,4,26.7,Groceries,6541.77,0.92,Online,899.69,No,Medium
+18,Female,65947.6,11,14.0,Clothing,8578.0,1.01,Downtown,1310.81,No,Medium
+52,Female,78338.65,10,25.5,Electronics,11702.99,0.45,Suburban,1282.58,No,High
+51,Female,66317.51,8,9.8,Sports,518.09,0.92,Downtown,925.7,No,Medium
+27,Male,44411.25,8,10.2,Toys,553.34,0.3,Downtown,623.77,No,Medium
+39,Female,100649.07,13,26.9,Toys,7957.99,0.82,Online,1552.8,Yes,High
+40,Female,74655.24,11,12.8,Home & Garden,1454.25,1.26,Online,1213.44,No,High
+38,Female,67276.21,9,23.7,Electronics,500.0,1.13,Downtown,1230.93,Yes,Medium
+28,Male,40948.57,6,7.1,Sports,2564.38,0.82,Mall,748.28,No,Medium
+26,Female,127964.64,2,28.5,Electronics,8570.57,1.01,Mall,1285.55,Yes,High
+34,Female,92976.93,11,17.2,Home & Garden,676.61,0.68,Suburban,1203.21,No,High
+49,Male,50579.16,7,22.8,Sports,5571.3,1.0,Mall,858.28,Yes,Medium
+41,Male,110047.54,15,2.7,Sports,500.0,1.88,Online,1715.46,No,High
+30,Female,51998.48,6,14.8,Beauty,581.19,1.55,Downtown,887.62,Yes,Medium
+44,Male,45105.23,8,27.0,Sports,2160.46,1.02,Downtown,972.01,No,Medium
+18,Male,45610.98,5,26.3,Home & Garden,500.0,1.05,Downtown,913.34,Yes,Medium
+48,Male,27507.69,10,1.4,Clothing,9350.82,0.71,Suburban,893.58,Yes,Medium
+18,Female,84417.2,5,9.1,Toys,9978.09,0.76,Suburban,891.33,Yes,Medium
+30,Female,26693.7,4,13.3,Clothing,7044.15,1.11,Suburban,682.53,No,Low
+21,Female,36081.42,5,5.2,Toys,1388.52,0.84,Suburban,595.63,No,Medium
+19,Male,23622.65,9,21.9,Clothing,3703.78,1.27,Airport,1200.37,Yes,Medium
+48,Female,63877.37,10,5.5,Electronics,1017.86,1.47,Suburban,1125.25,No,Medium
+29,Female,61857.9,10,10.4,Books,1651.41,1.1,Suburban,1001.42,No,Medium
+39,Female,56636.4,4,19.9,Electronics,3628.41,1.03,Airport,781.59,No,Medium
+34,Female,39595.33,11,14.5,Books,6640.39,0.5,Airport,1000.45,No,Medium
+40,Male,37109.88,9,22.2,Clothing,500.0,1.22,Downtown,1100.27,Yes,Medium
+35,Female,84115.0,6,28.8,Toys,1759.84,0.66,Suburban,1135.86,No,Medium
+19,Male,50639.1,12,3.5,Home & Garden,13060.61,0.87,Airport,1163.94,Yes,Medium
+46,Female,78114.77,8,21.3,Home & Garden,2802.91,1.29,Downtown,1139.89,Yes,Medium
+29,Male,42835.86,7,6.9,Groceries,13973.74,1.31,Suburban,956.61,Yes,Medium
+18,Male,73005.25,5,12.4,Electronics,23780.28,0.86,Suburban,1161.39,Yes,Medium
+29,Male,127949.93,10,1.0,Books,3739.7,0.88,Downtown,1141.38,No,High
+53,Female,89396.62,9,4.1,Clothing,1698.7,0.79,Downtown,991.94,No,High
+45,Male,54260.31,8,9.6,Groceries,7821.77,0.64,Suburban,988.18,No,Medium
+30,Female,75838.0,9,10.3,Home & Garden,867.67,0.81,Airport,1127.11,Yes,Medium
+30,Male,59125.8,7,27.0,Groceries,1452.07,0.52,Airport,964.8,No,Medium
+31,Male,66949.6,2,22.3,Clothing,7682.79,1.2,Online,878.65,Yes,Medium
+59,Female,56667.14,4,29.2,Electronics,2842.68,1.12,Downtown,848.0,Yes,Medium
+39,Male,61425.95,7,18.0,Electronics,1125.34,1.17,Downtown,1083.39,Yes,Medium
+40,Male,74146.78,4,7.3,Toys,5265.22,0.71,Airport,909.21,No,Medium
+47,Female,40581.84,6,9.8,Electronics,6598.08,0.64,Suburban,1017.88,Yes,Medium
+37,Male,40127.45,9,9.6,Beauty,668.06,1.02,Suburban,961.73,Yes,Medium
+31,Male,33305.71,4,9.8,Clothing,1621.59,1.02,Downtown,651.75,Yes,Low
+32,Male,29960.04,10,20.2,Electronics,1250.5,0.96,Suburban,938.52,Yes,Medium
+34,Female,36283.34,7,15.9,Groceries,2389.01,0.91,Suburban,678.82,No,Medium
+34,Female,72221.03,11,11.6,Electronics,7207.87,1.51,Downtown,1359.34,No,High
+43,Female,42674.7,4,4.5,Home & Garden,6253.72,1.13,Online,945.94,No,Medium
+35,Female,86211.81,16,0.7,Toys,5431.3,1.59,Downtown,1665.85,Yes,High
+43,Male,67853.9,8,6.6,Electronics,500.0,1.38,Online,1141.52,No,Medium
+34,Male,24921.92,5,3.2,Books,766.59,1.51,Airport,720.26,Yes,Low
+35,Female,92525.82,8,23.6,Groceries,1263.49,0.68,Suburban,1205.64,No,High
+18,Male,100022.92,4,3.4,Clothing,1586.97,1.18,Mall,659.85,No,Medium
+45,Male,40571.61,8,21.7,Clothing,791.62,0.87,Mall,1044.31,No,Medium
+39,Male,82277.34,9,11.6,Toys,2640.84,0.5,Downtown,977.49,No,High
+46,Male,43456.08,9,2.2,Electronics,500.0,1.45,Suburban,877.65,No,Medium
+18,Female,70023.8,10,24.4,Toys,6931.92,0.91,Suburban,1255.14,Yes,Medium
+60,Male,35436.8,6,17.4,Groceries,7749.26,0.68,Mall,800.14,No,Medium
+33,Female,27206.25,7,7.1,Electronics,4269.71,0.88,Suburban,680.42,No,Medium
+48,Male,55069.25,9,26.8,Groceries,500.0,0.76,Suburban,1106.07,No,Medium
+22,Female,62685.84,7,1.4,Books,11040.16,0.79,Suburban,838.14,No,Medium
+42,Male,54661.53,11,6.1,Sports,16853.7,0.93,Suburban,1204.03,Yes,Medium
+22,Male,36891.63,2,22.6,Groceries,1130.51,1.52,Suburban,646.15,Yes,Low
+27,Female,54600.91,17,21.3,Toys,6097.8,0.8,Suburban,1490.1,Yes,High
+57,Female,76298.05,12,8.7,Electronics,9223.86,1.5,Online,1287.07,No,High
+32,Male,65206.13,8,1.9,Toys,3880.94,1.25,Mall,916.29,No,Medium
+37,Male,73057.77,3,25.7,Books,1952.81,1.12,Mall,969.05,Yes,Medium
+45,Male,47700.52,9,9.4,Sports,3255.79,1.22,Mall,859.8,No,Medium
+40,Male,119804.23,9,5.9,Books,3589.95,1.0,Mall,1162.66,Yes,High
+36,Male,37036.85,6,15.5,Groceries,2559.44,1.39,Mall,968.97,Yes,Medium
+39,Female,85096.01,6,27.3,Home & Garden,13285.06,1.17,Downtown,1153.12,Yes,Medium
+63,Male,120415.17,10,1.3,Groceries,6810.61,0.5,Online,1360.74,No,High
+34,Male,84813.44,3,23.0,Groceries,1380.76,1.09,Downtown,1085.41,No,Medium
+37,Female,60264.18,4,17.2,Groceries,4404.1,1.24,Suburban,864.73,Yes,Medium
+47,Female,51205.73,10,12.8,Clothing,5834.82,0.91,Downtown,1003.64,No,Medium
+48,Female,111949.05,6,22.3,Groceries,755.02,1.04,Downtown,1224.77,Yes,High
+49,Male,32737.22,12,29.0,Clothing,2219.15,0.82,Airport,1067.08,Yes,Medium
+42,Male,41056.04,9,6.9,Electronics,11798.33,0.59,Suburban,725.18,No,Medium
+21,Female,54664.86,9,4.3,Clothing,4187.09,0.53,Airport,823.69,Yes,Medium
+54,Male,123819.75,10,27.4,Toys,1223.1,0.54,Suburban,1396.52,No,High
+21,Male,80631.05,6,20.1,Groceries,655.01,1.2,Suburban,1093.1,Yes,Medium
+38,Female,41098.73,9,13.1,Sports,3651.41,0.3,Suburban,787.28,Yes,Medium
+25,Female,57102.4,7,17.2,Clothing,3966.89,0.8,Mall,1087.0,Yes,Medium
+34,Female,49049.91,12,22.4,Groceries,2035.44,0.77,Airport,1053.28,Yes,Medium
+38,Male,46763.62,8,23.2,Electronics,4976.89,0.92,Suburban,945.86,Yes,Medium
+38,Male,108792.76,10,27.6,Electronics,500.0,0.44,Suburban,1371.58,Yes,High
+40,Female,33586.64,6,12.8,Home & Garden,784.09,1.12,Online,683.85,Yes,Medium
+54,Male,149066.19,11,8.8,Home & Garden,3951.31,0.62,Downtown,1302.2,No,High
+40,Female,100898.48,7,19.2,Clothing,500.0,1.34,Suburban,1247.69,Yes,High
+32,Female,115057.37,6,12.5,Groceries,10639.33,0.81,Suburban,1068.14,Yes,High
+46,Female,52906.71,8,17.8,Toys,766.61,0.97,Downtown,987.07,No,Medium
+49,Male,61869.64,8,12.6,Clothing,5603.06,1.0,Suburban,970.06,Yes,Medium
+20,Male,32571.06,8,4.6,Electronics,2481.36,1.07,Downtown,735.01,Yes,Medium
+42,Female,51298.87,9,14.1,Home & Garden,2552.36,1.01,Online,822.26,Yes,Medium
+43,Female,85355.72,6,20.7,Electronics,7238.5,0.87,Mall,1123.36,Yes,Medium
+31,Female,127489.18,12,24.0,Beauty,3460.36,1.1,Airport,1501.67,Yes,High
+51,Male,38337.23,5,14.8,Home & Garden,6466.85,1.14,Suburban,833.55,Yes,Medium
+33,Male,55547.97,6,5.0,Groceries,3517.92,0.77,Mall,719.51,No,Medium
+36,Female,61827.63,9,12.4,Groceries,4493.55,1.13,Mall,1081.48,No,Medium
+32,Female,33185.25,11,23.6,Groceries,7150.49,1.36,Online,1252.31,Yes,Medium
+35,Female,89628.61,13,12.4,Electronics,4673.66,1.21,Downtown,1455.91,Yes,High
+21,Male,46432.74,6,20.9,Toys,4780.55,1.28,Suburban,933.44,Yes,Medium
+18,Female,60479.52,11,15.2,Home & Garden,7784.69,1.05,Mall,1366.43,Yes,Medium
+54,Female,53198.24,5,7.2,Clothing,14888.17,0.72,Online,651.63,Yes,Medium
+24,Female,44940.11,7,23.9,Groceries,2363.77,0.76,Online,928.65,Yes,Medium
+23,Male,66451.84,6,2.5,Electronics,4303.3,1.1,Mall,947.73,No,Medium
+18,Male,59871.18,10,15.7,Electronics,500.0,1.28,Downtown,1215.71,Yes,Medium
+27,Female,55371.83,5,6.3,Home & Garden,2222.1,1.84,Downtown,835.61,Yes,Medium
+19,Male,46329.05,6,2.0,Home & Garden,2655.56,1.29,Online,717.68,Yes,Medium
+54,Male,78238.54,8,15.1,Groceries,9016.25,0.65,Suburban,996.25,Yes,Medium
+47,Female,152445.73,6,15.0,Clothing,3601.49,0.77,Downtown,1335.09,Yes,High
+26,Male,71517.6,3,21.2,Home & Garden,6566.45,1.68,Online,988.37,Yes,Medium
+62,Female,109733.98,6,22.3,Electronics,500.0,0.94,Downtown,1197.87,Yes,High
+46,Male,33277.75,7,21.8,Home & Garden,3122.7,1.01,Mall,967.17,Yes,Medium
+31,Female,72159.63,11,12.3,Groceries,11579.25,0.71,Mall,1468.67,Yes,High
+18,Female,38525.33,7,19.0,Home & Garden,1270.04,1.47,Downtown,1038.45,Yes,Medium
+62,Male,31865.93,9,17.3,Toys,500.0,1.15,Suburban,909.68,Yes,Medium
+18,Male,46077.02,4,12.6,Toys,2840.59,0.77,Downtown,553.9,No,Medium
+18,Male,121019.26,7,17.9,Beauty,6094.28,0.7,Mall,1206.97,Yes,High
+47,Male,107233.42,9,28.4,Beauty,3029.93,1.09,Suburban,1417.63,Yes,High
+64,Female,75301.67,9,5.8,Sports,3080.73,1.01,Downtown,834.15,Yes,Medium
+51,Female,30989.54,6,27.2,Beauty,5540.36,1.25,Online,935.07,Yes,Medium
+41,Male,60452.61,6,1.6,Toys,1467.76,1.16,Suburban,845.12,Yes,Medium
+42,Male,77544.35,7,9.3,Sports,6969.41,0.92,Suburban,966.69,No,Medium
+45,Male,72803.8,7,8.6,Electronics,830.94,0.84,Downtown,1011.89,No,Medium
+44,Female,26525.41,6,18.8,Electronics,2518.84,0.95,Downtown,658.28,Yes,Medium
+38,Male,42727.43,13,3.9,Books,5335.69,0.83,Online,1155.04,No,Medium
+36,Female,64583.64,6,26.5,Groceries,8812.04,0.96,Suburban,1205.8,Yes,Medium
+34,Female,87194.87,7,24.9,Books,7839.83,1.0,Suburban,1337.35,Yes,Medium
+25,Female,22240.97,6,19.6,Clothing,6395.02,0.73,Online,642.16,No,Medium
+31,Male,61493.9,10,13.8,Groceries,2224.38,1.19,Mall,1185.76,Yes,Medium
+18,Female,71630.75,2,28.0,Sports,652.28,0.89,Suburban,795.88,Yes,Medium
+33,Male,101982.99,5,24.9,Toys,1222.05,0.75,Online,945.02,No,Medium
+23,Male,94295.06,8,15.0,Electronics,10006.25,0.89,Mall,1180.48,No,High
+21,Female,89236.1,5,21.1,Toys,9736.15,1.07,Downtown,1054.22,No,Medium
+37,Female,44702.51,5,17.0,Books,15137.23,1.02,Mall,1054.69,No,Medium
+51,Male,25687.36,8,17.6,Clothing,500.0,1.13,Online,964.66,No,Medium
+46,Male,54788.13,8,9.9,Groceries,3848.08,1.27,Suburban,904.42,Yes,Medium
+18,Male,110036.92,6,13.9,Electronics,5230.33,1.39,Mall,1155.66,Yes,High
+23,Male,133851.0,3,2.3,Electronics,6200.72,1.09,Online,971.78,No,High
+46,Male,95132.87,7,10.7,Groceries,5162.2,0.68,Mall,1033.6,No,High
+23,Male,82654.59,8,20.9,Electronics,7348.63,0.92,Downtown,1311.37,Yes,Medium
+32,Male,80625.89,7,28.6,Clothing,2227.31,0.7,Downtown,1203.03,No,Medium
+41,Female,50498.35,10,28.9,Books,988.8,1.51,Mall,1316.25,Yes,Medium
+23,Female,62487.71,13,16.7,Groceries,1144.45,1.6,Suburban,1381.99,Yes,High
+36,Female,153628.1,9,18.2,Home & Garden,500.0,1.2,Online,1338.8,Yes,High
+18,Male,41625.83,5,5.6,Clothing,2156.39,1.26,Suburban,881.71,Yes,Medium
+27,Female,149513.9,5,20.9,Books,500.0,1.08,Suburban,1257.32,No,High
+38,Female,56768.75,6,2.1,Toys,1939.27,1.11,Mall,954.38,Yes,Medium
+18,Female,129375.12,14,8.5,Groceries,4947.13,0.52,Suburban,1497.3,No,High
+40,Female,33002.8,10,20.1,Toys,11244.18,0.98,Suburban,1349.05,Yes,Medium
+34,Female,89384.93,9,9.3,Books,9150.59,0.74,Downtown,1214.71,No,High
+41,Female,46136.99,9,1.5,Sports,1456.27,1.08,Mall,745.48,No,Medium
+37,Male,32863.62,3,25.0,Sports,719.83,0.98,Online,679.11,Yes,Low
+51,Female,74385.95,4,9.3,Electronics,1072.61,1.58,Mall,913.56,No,Medium
+36,Female,110469.11,8,1.9,Clothing,17700.0,1.27,Suburban,1223.91,Yes,High
+29,Female,43707.92,11,2.2,Electronics,3986.7,1.09,Downtown,973.35,Yes,Medium
+36,Female,31515.89,10,7.6,Electronics,1007.54,0.92,Airport,764.68,No,Medium
+41,Male,63693.19,6,5.3,Clothing,9186.28,1.5,Online,1011.38,No,Medium
+35,Male,63833.77,10,23.2,Toys,2514.21,0.99,Suburban,1245.06,Yes,Medium
+35,Female,87720.87,13,9.7,Clothing,11474.18,1.1,Mall,1346.73,No,High
+26,Female,107210.83,7,24.1,Beauty,1510.1,1.01,Suburban,1449.37,No,High
+27,Female,64734.38,13,5.2,Groceries,2497.96,0.88,Suburban,1178.81,Yes,High
+18,Male,168637.54,5,14.8,Clothing,3515.46,1.01,Airport,1256.33,No,High
+55,Male,74598.27,10,20.6,Groceries,11156.69,0.41,Downtown,1047.72,Yes,High
+20,Female,56080.42,11,19.6,Clothing,10153.54,0.54,Suburban,1194.34,Yes,Medium
+26,Female,29791.3,12,18.0,Beauty,4270.75,1.1,Downtown,1141.77,Yes,Medium
+26,Female,58479.15,11,27.7,Books,1253.7,1.47,Suburban,1455.6,Yes,Medium
+45,Male,56362.64,9,6.9,Electronics,2582.18,1.1,Mall,986.22,Yes,Medium
+31,Female,107786.5,6,14.8,Toys,18572.64,0.78,Downtown,1120.24,Yes,High
+49,Male,84035.71,5,26.5,Sports,4679.58,0.57,Mall,1192.45,Yes,Medium
+26,Female,36977.72,10,2.3,Electronics,7595.65,1.24,Suburban,1043.66,No,Medium
+38,Male,72684.43,7,1.7,Home & Garden,2987.96,0.83,Mall,840.29,No,Medium
+24,Male,93294.91,5,7.0,Home & Garden,3796.51,1.19,Downtown,1001.75,No,Medium
+60,Female,143167.56,9,19.0,Clothing,2801.43,1.12,Mall,1535.34,Yes,High
+20,Female,103933.57,10,7.8,Sports,6068.79,1.14,Mall,1157.56,No,High
+38,Male,97555.68,9,5.7,Electronics,9534.88,1.01,Online,1226.62,Yes,High
+42,Female,68720.19,5,13.8,Groceries,3539.92,1.12,Online,887.74,No,Medium
+39,Male,80976.26,10,18.4,Electronics,3277.98,0.96,Suburban,1297.74,Yes,High
+32,Male,124555.63,6,7.5,Beauty,2079.75,0.81,Downtown,1002.64,No,High
+33,Male,34247.42,12,9.0,Sports,974.58,0.71,Mall,924.16,Yes,Medium
+35,Male,55996.0,4,18.4,Clothing,14004.75,0.3,Mall,983.65,No,Medium
+33,Female,45318.51,9,28.4,Clothing,1899.57,0.95,Downtown,1254.05,No,Medium
+46,Male,80606.28,7,20.2,Clothing,8064.51,1.46,Downtown,930.11,Yes,Medium
+61,Female,123360.52,3,23.5,Sports,6282.42,1.22,Mall,1321.31,Yes,High
+28,Female,49477.24,10,11.0,Electronics,7825.13,1.07,Online,1100.7,Yes,Medium
+18,Male,20183.14,5,8.2,Books,13804.73,0.78,Online,639.29,No,Low
+33,Female,54265.55,6,13.6,Toys,4882.47,1.3,Downtown,870.05,Yes,Medium
+65,Male,105291.94,9,24.2,Home & Garden,11411.48,0.96,Suburban,1342.76,No,High
+25,Female,87253.26,4,13.7,Clothing,917.8,1.47,Downtown,936.24,Yes,Medium
+54,Male,82606.89,8,25.4,Groceries,4927.03,0.71,Suburban,1075.89,No,Medium
+55,Male,57974.51,12,29.7,Groceries,7398.1,0.78,Airport,1232.08,No,Medium
+28,Male,35180.24,12,2.2,Home & Garden,1584.81,0.75,Airport,829.56,No,Medium
+41,Male,86284.26,12,1.4,Home & Garden,6749.89,0.56,Suburban,1184.43,Yes,High
+54,Male,43941.5,9,4.5,Groceries,7536.14,0.72,Downtown,902.24,No,Medium
+30,Female,198750.12,4,11.5,Groceries,8894.85,1.03,Suburban,1493.85,No,High
+32,Female,88699.44,9,3.9,Toys,1876.25,0.79,Online,1027.97,No,High
+28,Female,49882.78,5,26.1,Electronics,5722.34,0.3,Downtown,705.4,Yes,Medium
+22,Female,49122.02,6,0.7,Groceries,1813.85,1.32,Suburban,843.71,Yes,Medium
+27,Male,63658.18,7,9.5,Sports,6716.95,0.49,Mall,775.9,No,Medium
+20,Male,59160.2,6,5.5,Electronics,3108.54,1.18,Mall,932.6,No,Medium
+35,Male,116561.25,5,27.9,Sports,4550.85,1.01,Online,1145.46,No,High
+25,Male,73200.93,9,20.1,Books,2687.9,1.64,Suburban,1241.18,Yes,Medium
+37,Female,46255.67,10,27.4,Home & Garden,883.58,1.3,Suburban,1199.25,No,Medium
+18,Female,171609.29,11,29.2,Electronics,980.25,0.85,Suburban,1804.01,Yes,High
+38,Male,68350.86,8,14.9,Clothing,500.0,0.79,Online,1014.27,Yes,Medium
+45,Male,97946.35,8,7.0,Clothing,4812.62,1.45,Airport,1218.4,Yes,High
+18,Female,49199.66,10,5.8,Clothing,9440.42,0.56,Airport,1157.42,No,Medium
+39,Female,79962.5,13,6.7,Beauty,500.0,1.06,Downtown,1082.93,Yes,High
+49,Male,77910.05,11,21.3,Home & Garden,500.0,0.96,Airport,1180.92,Yes,High
+20,Female,25924.16,7,1.2,Clothing,3057.53,0.9,Suburban,571.88,Yes,Medium
+55,Female,182662.02,9,1.5,Toys,6691.73,1.11,Downtown,1337.15,Yes,High
+40,Male,127144.25,8,18.2,Sports,858.14,1.06,Downtown,1259.77,No,High
+26,Male,54674.77,6,19.3,Clothing,1584.88,1.14,Mall,1032.88,No,Medium
+34,Female,38431.03,11,20.0,Groceries,1319.87,1.04,Suburban,1072.5,No,Medium
+41,Female,79343.05,7,11.2,Clothing,2546.23,1.13,Online,1009.82,Yes,Medium
+35,Female,69640.68,9,24.2,Beauty,1274.45,1.03,Mall,1028.26,No,Medium
+41,Male,79665.33,6,16.0,Groceries,2173.94,0.8,Downtown,894.46,Yes,Medium
+23,Male,73390.07,5,3.2,Toys,6519.75,1.0,Mall,807.06,No,Medium
+37,Female,85894.56,11,23.9,Clothing,4721.0,0.79,Downtown,1415.48,Yes,High
+18,Female,137503.98,6,28.6,Toys,500.0,0.77,Suburban,1149.62,Yes,High
+33,Male,88592.89,10,1.8,Electronics,5077.04,0.9,Mall,1072.24,Yes,High
+24,Female,39455.45,8,11.7,Beauty,3241.61,0.96,Online,1015.33,No,Medium
+26,Female,131799.45,13,14.6,Toys,13633.53,1.01,Suburban,1639.1,No,High
+49,Female,151457.84,9,4.4,Groceries,1707.55,1.27,Airport,1185.58,Yes,High
+48,Female,200000.0,5,26.0,Sports,6476.17,0.85,Airport,1706.1,Yes,High
+42,Female,38025.35,14,8.5,Sports,6562.63,1.06,Suburban,1294.37,No,Medium
+21,Male,75297.05,11,23.5,Toys,1251.94,1.04,Suburban,1405.28,Yes,High
+31,Female,23545.88,7,20.1,Clothing,11676.76,0.82,Mall,754.98,Yes,Medium
+49,Male,87932.95,14,17.9,Groceries,3378.34,1.02,Downtown,1634.84,Yes,High
+36,Female,50698.68,11,5.8,Toys,5679.75,1.3,Online,1058.88,No,Medium
+62,Male,174464.78,3,6.6,Sports,788.27,1.06,Airport,1111.07,Yes,High
+39,Female,45272.17,16,1.4,Groceries,1490.71,1.07,Downtown,1160.86,No,High
+37,Male,28657.31,6,7.2,Books,4410.74,0.79,Online,787.89,Yes,Medium
+31,Male,52686.97,4,10.4,Electronics,1921.17,1.59,Downtown,842.89,Yes,Medium
+36,Male,24835.05,7,25.0,Books,3462.67,0.81,Online,947.38,Yes,Medium
+33,Male,97081.39,13,11.0,Clothing,2342.07,0.5,Suburban,1295.45,No,High
+43,Female,23747.05,7,22.6,Clothing,5115.95,1.26,Airport,968.21,Yes,Medium
+46,Female,67641.98,9,13.2,Groceries,3338.81,0.97,Suburban,995.66,No,Medium
+25,Female,23596.4,8,23.5,Groceries,500.0,0.91,Mall,1101.35,Yes,Medium
+19,Male,56817.88,11,29.3,Groceries,5244.55,0.84,Downtown,1153.11,Yes,Medium
+18,Male,151667.27,5,7.2,Groceries,2741.96,1.56,Suburban,1334.89,No,High
+41,Male,79863.9,7,25.9,Clothing,2090.46,1.11,Downtown,1221.61,Yes,Medium
+21,Male,43304.35,6,18.7,Clothing,500.0,1.16,Online,1020.86,Yes,Medium
+18,Female,65653.98,9,24.5,Sports,1244.68,1.05,Suburban,1329.57,Yes,Medium
+39,Male,67289.78,8,19.5,Groceries,1266.55,1.08,Mall,1090.5,Yes,Medium
+64,Male,84463.14,5,12.7,Groceries,13695.34,1.42,Airport,1202.84,Yes,Medium
+34,Male,33668.77,7,6.8,Home & Garden,2832.69,0.92,Online,948.05,No,Medium
+45,Male,89683.22,6,2.1,Toys,500.0,0.56,Downtown,805.75,No,Medium
+35,Female,20000.0,11,16.1,Sports,747.24,1.26,Online,947.25,Yes,Medium
+33,Female,48669.75,12,29.7,Electronics,500.0,1.15,Downtown,1296.15,Yes,Medium
+46,Male,52240.76,10,22.1,Books,4444.22,1.03,Mall,1059.13,Yes,Medium
+31,Male,91529.69,7,9.8,Beauty,1032.79,1.14,Mall,1105.13,Yes,Medium
+38,Male,67445.2,12,24.8,Groceries,3451.33,0.89,Downtown,1447.74,Yes,High
+38,Male,33023.47,10,23.1,Beauty,2310.67,1.01,Downtown,1080.84,No,Medium
+26,Male,40751.94,7,8.4,Groceries,8145.05,0.96,Suburban,715.25,No,Medium
+46,Female,73651.17,11,0.4,Groceries,1931.91,0.82,Suburban,1146.87,Yes,High
+32,Female,64101.41,10,3.5,Clothing,3064.9,1.36,Online,926.46,Yes,Medium
+25,Female,49920.81,4,26.3,Home & Garden,6387.84,0.58,Suburban,695.55,Yes,Medium
+41,Male,52435.46,6,25.1,Clothing,2840.08,1.71,Online,1121.7,Yes,Medium
+24,Male,94451.27,12,8.9,Electronics,7880.39,1.26,Suburban,1439.17,Yes,High
+35,Female,51477.96,8,8.6,Electronics,5418.88,0.47,Online,890.23,No,Medium
+34,Female,63812.84,14,23.8,Clothing,2642.65,0.93,Mall,1410.25,Yes,High
+48,Female,197347.93,6,28.1,Groceries,3505.71,0.95,Airport,1804.23,Yes,High
+40,Male,32725.63,13,23.4,Groceries,17087.16,1.12,Downtown,1421.26,Yes,Medium
+34,Female,26418.87,7,18.2,Clothing,5417.8,0.7,Mall,940.36,No,Medium
+44,Male,98671.37,15,7.3,Beauty,11769.14,1.01,Downtown,1632.44,Yes,High
+51,Female,47497.57,12,15.8,Clothing,984.69,0.96,Suburban,1029.2,No,Medium
+41,Female,56876.44,15,7.0,Groceries,3300.85,0.78,Mall,1228.76,Yes,High
+35,Female,45124.34,2,24.2,Electronics,11965.92,0.74,Mall,1009.4,Yes,Low
+19,Male,58562.81,10,11.6,Clothing,1947.56,1.28,Downtown,1084.18,No,Medium
+22,Female,148304.72,3,25.0,Electronics,17157.9,0.49,Suburban,1220.26,No,High
+31,Male,99590.25,6,11.4,Groceries,510.59,1.14,Mall,1079.8,No,Medium
+27,Male,102628.1,7,24.7,Sports,11648.3,1.24,Downtown,1342.1,Yes,High
+32,Male,32847.86,9,10.0,Clothing,2945.85,0.93,Suburban,823.84,No,Medium
+35,Female,37503.08,5,13.2,Groceries,500.0,1.02,Mall,698.08,Yes,Medium
+41,Male,20000.0,10,18.5,Electronics,10581.42,1.35,Downtown,1287.16,Yes,Medium
+34,Male,44492.01,10,2.1,Books,1451.36,0.79,Airport,864.94,No,Medium
+40,Female,107592.57,7,28.4,Sports,500.0,0.82,Mall,1118.4,Yes,High
+35,Male,86355.57,10,17.2,Electronics,729.8,0.85,Airport,1058.21,No,High
+18,Female,59694.71,10,15.2,Groceries,5381.05,1.35,Downtown,1445.14,Yes,Medium
+23,Male,65946.9,7,25.2,Beauty,19040.9,1.39,Airport,1322.39,Yes,Medium
+33,Male,47254.94,11,26.0,Groceries,590.89,0.58,Downtown,1172.51,No,Medium
+20,Female,73875.37,10,15.7,Groceries,3099.0,1.3,Suburban,1179.04,No,High
+42,Male,97801.42,4,27.8,Groceries,996.14,1.25,Downtown,1176.7,Yes,Medium
+53,Male,29727.03,12,1.9,Groceries,6833.18,1.47,Online,1250.34,Yes,Medium
+49,Female,77464.82,7,3.4,Beauty,628.15,1.12,Mall,870.93,No,Medium
+32,Female,106294.91,6,17.9,Beauty,1371.14,0.99,Downtown,1178.81,Yes,High
+52,Female,54187.48,5,10.6,Sports,1093.31,1.34,Downtown,720.85,Yes,Medium
+36,Male,94665.56,10,13.9,Groceries,4020.61,1.21,Suburban,1517.87,Yes,High
+30,Male,200000.0,9,9.8,Groceries,10325.09,1.67,Downtown,1846.13,Yes,High
+27,Female,63296.41,8,12.1,Groceries,3577.89,1.29,Mall,1036.76,No,Medium
+31,Female,81178.75,11,24.7,Beauty,500.0,1.05,Mall,1319.67,Yes,High
+30,Female,46107.31,13,17.8,Sports,4143.56,0.65,Online,1140.1,No,Medium
+37,Female,73012.13,9,29.9,Groceries,7985.6,0.83,Online,1252.33,Yes,Medium
+36,Female,83942.82,5,23.6,Electronics,708.72,0.57,Mall,711.94,No,Medium
+35,Female,73509.98,10,8.2,Groceries,500.0,0.94,Downtown,1070.59,Yes,High
+40,Male,40050.95,7,7.9,Beauty,1040.09,1.28,Suburban,847.86,Yes,Medium
+49,Female,73934.6,9,10.1,Groceries,6853.8,1.0,Suburban,1176.24,Yes,Medium
+46,Male,138531.53,5,25.3,Clothing,4478.53,1.31,Suburban,1333.99,Yes,High
+18,Male,83455.86,8,0.8,Electronics,3889.11,1.1,Mall,937.77,Yes,Medium
+18,Female,107877.21,5,6.9,Groceries,1434.94,0.88,Online,957.87,No,High
+46,Female,59233.9,7,27.1,Toys,2019.11,1.03,Online,932.02,Yes,Medium
+18,Male,97023.2,6,19.2,Beauty,16890.09,1.14,Downtown,1307.83,Yes,Medium
+32,Male,76679.46,11,6.8,Toys,1376.3,1.04,Suburban,973.43,No,High
+20,Male,41452.35,8,6.6,Sports,11595.88,1.05,Airport,1075.8,Yes,Medium
+18,Female,78199.28,9,25.9,Groceries,4343.83,0.77,Airport,1300.55,No,Medium
+41,Female,40615.58,11,26.8,Groceries,657.93,0.87,Suburban,1075.21,Yes,Medium
+44,Male,48596.91,13,7.7,Groceries,3149.1,1.68,Mall,1362.6,No,Medium
+28,Male,73307.59,14,12.6,Sports,14835.6,1.37,Mall,1564.66,Yes,High
+18,Female,77371.78,11,25.0,Groceries,2711.29,0.56,Suburban,1160.16,No,High
+28,Male,36795.8,12,23.1,Home & Garden,9953.0,0.3,Downtown,941.56,No,Medium
+39,Female,112955.38,5,24.4,Electronics,1481.45,1.02,Online,1215.68,No,High
+18,Female,88765.95,9,15.6,Clothing,4230.58,1.27,Mall,1192.34,Yes,High
+37,Male,46882.09,8,27.3,Books,9284.76,0.84,Downtown,1239.49,No,Medium
+34,Female,30913.95,4,9.8,Toys,12671.86,1.31,Mall,816.23,No,Low
+41,Male,62025.63,7,4.7,Groceries,3325.94,1.02,Mall,822.32,Yes,Medium
+36,Male,53358.23,5,21.3,Electronics,5103.93,0.95,Online,1106.37,Yes,Medium
+23,Female,70567.54,15,16.2,Toys,500.0,1.23,Downtown,1514.04,No,High
+49,Male,55614.37,8,25.6,Sports,1459.95,0.84,Online,704.9,Yes,Medium
+33,Female,24441.23,8,2.4,Groceries,1633.58,0.91,Downtown,676.33,Yes,Medium
+34,Female,54917.2,10,25.3,Groceries,500.0,1.2,Mall,1088.62,Yes,Medium
+23,Male,57236.42,7,8.8,Groceries,1640.4,0.99,Mall,811.03,Yes,Medium
+29,Male,91544.99,9,19.6,Groceries,1936.57,1.57,Suburban,1346.86,Yes,High
+24,Male,47035.38,10,1.2,Toys,17331.25,1.21,Suburban,1158.33,Yes,Medium
+32,Male,154367.69,11,18.3,Clothing,5522.18,1.19,Online,1695.29,Yes,High
+55,Male,25640.67,3,21.5,Electronics,2775.67,0.99,Mall,804.41,Yes,Low
+18,Male,128455.66,10,11.1,Electronics,22136.99,1.26,Suburban,1683.75,No,High
+18,Male,59611.02,9,6.5,Clothing,831.64,0.9,Downtown,1009.81,No,Medium
+52,Female,102492.79,8,16.1,Electronics,3231.81,1.08,Downtown,1257.46,Yes,High
+32,Female,69400.96,4,25.0,Clothing,5207.32,0.73,Downtown,1064.95,Yes,Medium
+26,Female,117893.04,8,9.7,Electronics,500.0,1.31,Online,1223.96,Yes,High
+47,Male,54944.25,8,7.6,Clothing,6311.52,1.09,Airport,956.46,No,Medium
+27,Male,38501.21,4,8.4,Clothing,526.07,1.59,Online,578.08,Yes,Medium
+56,Female,135673.62,8,28.5,Electronics,755.76,1.72,Downtown,1707.02,Yes,High
+43,Female,63007.87,5,10.8,Home & Garden,869.92,1.23,Mall,867.34,Yes,Medium
+29,Male,74498.52,5,0.1,Groceries,13217.62,1.02,Downtown,1191.05,Yes,Medium
+60,Female,123640.23,8,23.5,Electronics,5747.98,0.72,Airport,1310.33,Yes,High
+27,Female,39806.19,10,21.0,Groceries,5327.25,1.27,Suburban,1192.27,Yes,Medium
+43,Female,89814.41,5,3.9,Beauty,4053.95,1.06,Downtown,971.03,No,Medium
+38,Male,49652.69,9,29.5,Toys,1732.25,1.16,Mall,1091.3,No,Medium
+50,Female,62421.85,6,18.2,Electronics,4849.64,1.52,Suburban,1130.23,No,Medium
+53,Female,69140.42,8,15.0,Books,2639.43,0.75,Mall,1018.48,Yes,Medium
+35,Female,31496.9,12,11.5,Groceries,785.7,0.72,Mall,968.27,No,Medium
+25,Female,45176.7,10,27.0,Electronics,5849.42,0.93,Mall,1319.81,Yes,Medium
+40,Female,131044.43,4,7.3,Clothing,693.91,1.25,Online,984.85,No,High
+26,Female,103865.38,10,8.6,Clothing,1057.73,1.17,Suburban,1290.13,No,High
+59,Male,64630.1,12,3.7,Groceries,8510.49,0.73,Suburban,1283.12,No,High
+36,Female,75306.14,6,22.8,Home & Garden,5395.77,1.23,Airport,1070.46,Yes,Medium
+30,Female,57562.93,8,17.9,Sports,4984.67,0.64,Mall,966.93,No,Medium
+37,Female,131405.99,4,18.3,Clothing,2708.17,0.75,Downtown,1341.87,No,High
+18,Male,60329.65,10,6.6,Clothing,2523.23,0.97,Airport,1083.12,Yes,Medium
+23,Male,74882.56,8,19.5,Clothing,5860.15,0.83,Downtown,1081.79,No,Medium
+49,Female,118275.31,12,23.0,Groceries,6735.47,1.27,Downtown,1723.82,No,High
+27,Female,45209.82,9,10.7,Beauty,3568.93,1.09,Downtown,941.44,No,Medium
+22,Female,145386.34,4,24.0,Sports,17412.46,1.53,Downtown,1369.34,Yes,High
+41,Female,31024.25,7,10.5,Beauty,15583.8,0.93,Downtown,1062.51,Yes,Medium
+49,Female,150629.18,6,22.7,Home & Garden,2658.8,0.96,Downtown,1263.57,No,High
+43,Female,55349.2,10,1.0,Groceries,8591.31,1.36,Suburban,1344.33,No,Medium
+46,Female,59065.71,10,16.5,Groceries,3918.29,0.97,Suburban,1095.9,Yes,Medium
+25,Female,25919.48,13,29.1,Groceries,3584.7,1.45,Downtown,1587.81,Yes,Medium
+18,Female,53122.61,11,29.4,Groceries,500.0,1.16,Mall,1165.93,Yes,Medium
+53,Male,39650.23,16,8.5,Books,4266.28,0.3,Downtown,1255.42,Yes,High
+31,Male,49213.94,6,13.2,Groceries,11541.91,1.35,Downtown,1073.1,No,Medium
+31,Female,62261.58,9,1.9,Clothing,7573.68,1.27,Suburban,1142.7,Yes,Medium
+50,Male,107651.14,16,26.2,Sports,7716.31,1.29,Suburban,1941.59,Yes,High
+41,Male,73980.51,9,17.1,Toys,871.34,0.43,Suburban,973.53,Yes,Medium
+40,Male,77776.42,7,11.6,Groceries,2219.34,0.8,Suburban,841.6,No,Medium
+60,Male,38560.96,3,3.4,Home & Garden,1327.68,0.82,Mall,517.53,Yes,Low
+27,Male,42932.24,3,28.4,Electronics,1898.37,0.75,Mall,803.7,Yes,Medium
+46,Male,163917.38,6,15.9,Groceries,4332.02,1.52,Online,1442.64,Yes,High
+35,Female,46173.2,4,8.5,Electronics,2268.95,1.0,Suburban,727.13,No,Medium
+38,Female,152643.35,15,10.5,Electronics,4112.84,0.99,Suburban,1762.91,Yes,High
+53,Male,59055.01,11,8.1,Home & Garden,2885.73,1.17,Downtown,1048.04,Yes,Medium
+41,Male,66762.66,9,18.1,Clothing,1688.67,1.17,Airport,1199.72,Yes,Medium
+41,Female,113884.25,5,27.9,Sports,501.33,0.3,Downtown,1041.81,Yes,High
+47,Male,125957.71,13,25.7,Toys,11120.65,0.81,Suburban,1634.25,Yes,High
+30,Female,63091.98,8,13.8,Electronics,500.0,0.58,Suburban,999.85,Yes,Medium
+24,Female,54920.05,4,24.8,Sports,500.0,1.12,Mall,828.15,Yes,Medium
+22,Female,64847.59,10,12.7,Groceries,8766.48,0.91,Online,1121.86,Yes,Medium
+18,Male,78962.95,11,7.6,Electronics,28740.15,1.0,Online,1450.54,Yes,High
+59,Female,104131.22,6,29.5,Home & Garden,6493.3,0.38,Downtown,1306.53,No,High
+21,Male,66827.52,11,9.1,Home & Garden,500.0,0.91,Suburban,1125.14,Yes,High
+32,Female,90871.2,7,9.7,Groceries,1285.38,1.33,Airport,1158.22,No,Medium
+31,Female,151287.18,4,29.7,Toys,17846.19,1.42,Suburban,1560.63,Yes,High
+38,Male,80693.24,5,4.0,Groceries,8267.06,1.22,Suburban,944.18,No,Medium
+44,Male,77931.2,6,22.8,Beauty,4182.78,0.6,Mall,1009.53,Yes,Medium
+45,Male,31203.95,6,28.1,Groceries,1351.57,1.38,Mall,1029.43,Yes,Medium
+28,Female,20000.0,9,15.4,Electronics,500.0,1.22,Online,906.18,Yes,Medium
+32,Male,80978.84,8,0.1,Groceries,500.0,0.96,Mall,1070.38,Yes,Medium
+38,Female,63598.37,7,11.3,Clothing,4733.5,0.39,Suburban,816.51,Yes,Medium
+32,Male,51552.91,8,3.3,Groceries,500.0,1.29,Suburban,739.3,No,Medium
+54,Female,75321.46,10,12.5,Home & Garden,25280.89,0.82,Airport,1630.4,Yes,High
+40,Female,64702.39,9,23.7,Groceries,1012.93,1.1,Mall,1154.76,No,Medium
+43,Female,117200.97,7,13.2,Electronics,6201.58,1.02,Mall,1367.77,Yes,High
+42,Female,69620.25,9,13.0,Groceries,842.45,1.46,Online,1311.29,No,Medium
+49,Male,45903.36,16,16.7,Electronics,3883.66,0.96,Mall,1484.1,No,High
+37,Male,109407.9,5,17.5,Home & Garden,500.0,1.0,Suburban,1065.16,No,High
+19,Female,59825.65,7,25.7,Books,7278.83,1.47,Mall,1252.45,Yes,Medium
+39,Male,86770.64,12,9.3,Beauty,4396.43,0.8,Mall,1131.56,No,High
+27,Male,52525.28,8,24.7,Electronics,500.0,1.24,Downtown,1318.73,No,Medium
+28,Male,48186.87,8,17.0,Groceries,9438.69,0.94,Suburban,968.07,Yes,Medium
+42,Male,69552.66,8,9.0,Groceries,3959.52,0.7,Mall,933.86,No,Medium
+49,Male,67115.45,15,8.9,Toys,12729.17,1.0,Suburban,1455.91,No,High
+35,Female,84767.61,7,10.8,Home & Garden,12421.94,1.21,Airport,1166.18,Yes,Medium
+38,Male,58304.37,7,18.7,Electronics,12660.48,1.41,Suburban,1122.07,No,Medium
+55,Female,26624.19,7,6.9,Groceries,500.0,1.44,Online,962.85,Yes,Medium
+37,Male,53710.74,6,27.6,Home & Garden,644.61,0.91,Suburban,1083.58,Yes,Medium
+66,Female,99177.31,7,17.2,Sports,21993.14,0.7,Downtown,1328.14,Yes,High
+41,Male,57472.81,8,27.6,Toys,3343.26,0.9,Suburban,1089.82,Yes,Medium
+18,Female,58957.0,13,1.4,Clothing,1360.45,0.65,Suburban,1158.79,Yes,High
+44,Female,109200.79,10,10.3,Beauty,7341.09,0.93,Suburban,1271.92,No,High
+39,Male,46712.57,9,0.7,Electronics,1534.56,0.9,Downtown,1003.52,Yes,Medium
+50,Female,30833.4,10,8.2,Beauty,6495.37,1.22,Mall,1030.2,No,Medium
+43,Female,61539.82,7,25.9,Toys,9078.8,0.34,Suburban,1146.83,No,Medium
+33,Female,52347.96,5,1.1,Home & Garden,7668.48,0.78,Mall,700.4,No,Medium
+20,Female,41135.72,11,13.1,Sports,1601.36,0.78,Airport,1032.03,Yes,Medium
+32,Male,61087.71,11,3.5,Electronics,2567.63,1.36,Airport,1258.98,Yes,Medium
+24,Female,85264.04,12,12.5,Electronics,2665.79,0.67,Suburban,1459.49,Yes,High
+28,Male,66377.34,7,25.2,Electronics,3379.22,1.07,Mall,1282.0,Yes,Medium
+42,Male,77749.38,7,18.7,Electronics,915.85,0.96,Suburban,1150.14,Yes,Medium
+55,Female,165125.18,10,22.1,Groceries,3011.69,1.31,Online,1760.65,No,High
+39,Male,56179.99,5,10.5,Clothing,3574.75,1.18,Online,809.89,Yes,Medium
+20,Female,76644.23,12,28.3,Toys,3793.33,1.04,Suburban,1477.08,Yes,High
+40,Female,51696.67,10,21.3,Groceries,8571.23,0.83,Downtown,1089.53,No,Medium
+49,Female,43676.93,15,12.7,Home & Garden,3642.16,0.44,Downtown,1221.85,No,High
+27,Female,49776.66,8,12.8,Home & Garden,1311.92,1.07,Suburban,1007.35,No,Medium
+33,Male,52489.9,14,27.6,Clothing,5440.27,1.16,Mall,1284.86,Yes,High
+35,Male,79817.11,16,17.3,Clothing,7980.49,0.53,Mall,1494.76,Yes,High
+25,Male,200000.0,5,21.2,Clothing,1923.69,0.63,Suburban,1482.04,No,High
+42,Male,46617.61,12,12.5,Books,5182.5,1.08,Mall,1177.83,No,Medium
+33,Male,54146.18,11,6.7,Groceries,794.62,1.1,Online,1106.71,Yes,Medium
+40,Male,64614.48,9,21.7,Clothing,2092.19,0.7,Mall,963.54,Yes,Medium
+24,Female,81279.95,3,18.2,Books,11996.8,0.83,Downtown,878.6,Yes,Medium
+29,Female,76079.24,15,15.0,Electronics,12112.94,0.45,Mall,1531.43,Yes,High
+43,Male,126728.61,3,18.7,Home & Garden,4282.15,1.41,Suburban,1190.55,Yes,High
+30,Female,20000.0,6,6.2,Groceries,6059.21,0.61,Online,661.92,No,Medium
+55,Male,20217.23,5,23.8,Sports,9621.27,1.16,Suburban,846.33,Yes,Low
+30,Male,52042.51,14,28.4,Toys,15916.72,0.99,Suburban,1559.86,Yes,High
+37,Female,115428.36,9,26.7,Sports,3365.61,1.39,Mall,1278.78,Yes,High
+46,Female,30483.21,17,9.6,Groceries,4122.84,0.76,Suburban,1351.31,No,High
+18,Female,20000.0,8,12.2,Clothing,2686.2,1.02,Mall,1016.66,Yes,Medium
+18,Male,88729.26,4,24.3,Books,500.0,0.49,Downtown,809.3,Yes,Medium
+18,Female,75326.24,13,17.9,Groceries,2747.86,0.42,Mall,1159.99,No,High
+50,Female,38663.49,13,16.4,Electronics,7818.2,1.18,Downtown,1333.15,Yes,Medium
+28,Female,40740.81,9,27.8,Sports,8170.84,0.46,Suburban,1219.75,Yes,Medium
+65,Female,41063.85,6,16.1,Clothing,11145.61,0.93,Mall,929.65,Yes,Medium
+28,Female,70475.68,6,15.4,Electronics,500.0,1.3,Downtown,890.39,No,Medium
+37,Female,48756.69,8,1.3,Toys,3744.93,1.22,Suburban,877.54,No,Medium
+53,Female,85373.18,5,2.1,Groceries,568.22,0.8,Mall,689.54,No,Medium
+59,Female,20000.0,8,0.2,Clothing,1120.36,0.52,Mall,534.34,Yes,Medium
+59,Female,43448.4,9,27.4,Sports,11523.76,1.15,Downtown,1220.44,Yes,Medium
+49,Male,37976.71,13,12.3,Toys,3433.75,1.4,Mall,1153.18,No,Medium
+47,Female,58664.2,5,14.1,Electronics,7105.36,0.8,Downtown,788.96,No,Medium
+42,Male,50956.69,8,25.4,Home & Garden,500.0,0.76,Suburban,1030.57,No,Medium
