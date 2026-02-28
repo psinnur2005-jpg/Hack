@@ -6,6 +6,7 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 import sys
 import os
+import time
 
 # Add src directory to path
 sys.path.append(os.path.join(os.path.dirname(__file__), 'src'))
@@ -59,6 +60,28 @@ st.markdown("""
     }
 </style>
 """, unsafe_allow_html=True)
+
+# Cache expensive operations
+@st.cache_data(ttl=3600)  # Cache for 1 hour
+def load_data():
+    """Load and cache dataset"""
+    try:
+        return pd.read_csv('data/synthetic_data.csv')
+    except FileNotFoundError:
+        return None
+
+@st.cache_resource(ttl=3600)  # Cache for 1 hour
+def load_prediction_system():
+    """Load and cache prediction system"""
+    try:
+        return PredictionSystem()
+    except:
+        return None
+
+@st.cache_resource(ttl=3600)  # Cache for 1 hour
+def load_visualizer():
+    """Load and cache visualizer"""
+    return DataVisualizer()
 
 def main():
     # Sidebar navigation
