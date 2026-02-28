@@ -38,8 +38,9 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Streamlit
-.streamlit/
+# Streamlit (but keep config)
+.streamlit/secrets.toml
+!.streamlit/config.toml
 
 # Models (optional - comment out if you want to include models)
 # models/
