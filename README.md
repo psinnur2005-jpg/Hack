@@ -39,10 +39,10 @@ project/
 ├── app.py                          # Main Streamlit application
 ├── requirements.txt                # Python dependencies
 ├── README.md                      # Project documentation
-│
+
 ├── data/
 │   └── synthetic_data.csv          # Generated dataset
-│
+
 ├── models/
 │   ├── linear_regression.pkl       # Trained Linear Regression model
 │   ├── decision_tree.pkl           # Trained Decision Tree model
